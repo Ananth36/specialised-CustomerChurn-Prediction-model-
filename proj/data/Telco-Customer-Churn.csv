@@ -1,0 +1,1001 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+0A-B,Male,1,Yes,No,6,No,No,No,No internet service,No internet service,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),20.768591646295867,107.02808953688474,Yes
+1A-B,Female,0,Yes,Yes,7,Yes,No phone service,No,No,No,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),59.89004046459393,416.99031502025633,No
+2A-B,Male,0,No,Yes,10,No,Yes,Fiber optic,No internet service,No,No internet service,No,No,No internet service,Month-to-month,Yes,Mailed check,62.1086993349289,601.1394080716124,Yes
+3A-B,Female,0,Yes,No,30,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No internet service,Two year,Yes,Mailed check,56.01955142731835,1684.7176887032344,No
+4A-B,Male,0,No,No,49,No,No phone service,Fiber optic,Yes,No internet service,No internet service,No,No,No,Two year,Yes,Credit card (automatic),18.37783686513637,899.8678531255837,No
+5A-B,Male,0,Yes,Yes,51,No,No phone service,DSL,No,No,No,Yes,Yes,No internet service,One year,No,Credit card (automatic),78.77523613951601,4002.3386872921383,No
+6A-B,Male,1,Yes,Yes,67,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,74.51904524032125,4981.321020606455,Yes
+7A-B,Female,1,Yes,Yes,35,No,No phone service,DSL,No internet service,No internet service,No,No,Yes,No internet service,Two year,Yes,Bank transfer (automatic),75.95921622341872,2647.4228345468223,No
+8A-B,Male,0,No,Yes,5,No,No,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No internet service,Month-to-month,No,Credit card (automatic),56.99691321285448,291.37542232414785,Yes
+9A-B,Female,0,No,No,6,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),45.720174973875565,279.0652165525835,Yes
+10A-B,Male,0,No,No,5,No,No phone service,DSL,No internet service,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Mailed check,110.99822224025048,565.6625268348783,Yes
+11A-B,Male,0,No,No,49,Yes,Yes,No,Yes,No internet service,No internet service,No internet service,No,No,Two year,No,Credit card (automatic),27.909865288517192,1376.4949160434971,No
+12A-B,Female,0,Yes,Yes,24,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No,Yes,Yes,One year,No,Credit card (automatic),47.906014239410474,1158.0334428573208,No
+13A-B,Female,1,No,Yes,43,Yes,Yes,No,No,Yes,No,No internet service,No,No,Two year,Yes,Credit card (automatic),54.03234442492249,2323.3040359413226,No
+14A-B,Female,0,Yes,No,68,No,No,No,No internet service,No internet service,No,Yes,No internet service,No internet service,Two year,No,Bank transfer (automatic),82.72933024118244,5620.07256670018,No
+15A-B,Female,1,No,Yes,67,Yes,No,DSL,No internet service,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),68.99852302734452,4600.915272451341,No
+16A-B,Female,0,Yes,No,20,No,Yes,No,Yes,No internet service,No,Yes,Yes,Yes,One year,No,Mailed check,93.05793798946118,1869.78495295036,No
+17A-B,Male,0,Yes,Yes,61,Yes,Yes,DSL,No internet service,Yes,No internet service,No internet service,No,Yes,One year,No,Electronic check,42.165395247516244,2591.6423318182674,No
+18A-B,Female,0,No,No,13,No,No phone service,Fiber optic,No,Yes,No,No internet service,No internet service,No internet service,One year,Yes,Electronic check,36.3526599279286,454.5008301418781,Yes
+19A-B,Female,0,Yes,Yes,33,Yes,No phone service,No,No internet service,No internet service,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),44.97306537681744,1486.4204269280563,No
+20A-B,Female,0,Yes,No,69,No,Yes,DSL,Yes,Yes,No,Yes,No internet service,No,Two year,Yes,Electronic check,95.88747133889362,6619.188652563061,Yes
+21A-B,Male,0,Yes,Yes,46,Yes,No phone service,No,No internet service,No,Yes,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),103.43492944804576,4751.557064136107,No
+22A-B,Male,1,No,Yes,18,Yes,No,Fiber optic,No internet service,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,25.301401110181622,465.28659409944015,Yes
+23A-B,Female,0,No,No,68,Yes,Yes,No,Yes,No internet service,No,Yes,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),56.14212550472011,3812.2805164166657,No
+24A-B,Female,0,No,No,58,Yes,Yes,Fiber optic,No,Yes,No,No internet service,Yes,Yes,One year,Yes,Credit card (automatic),53.71200471131594,3123.9891889533565,No
+25A-B,Female,1,Yes,No,65,No,Yes,Fiber optic,No,No,No internet service,No internet service,No internet service,Yes,Two year,No,Credit card (automatic),25.55607235286024,1669.1997460343048,No
+26A-B,Male,1,Yes,No,52,No,No phone service,Fiber optic,No internet service,No internet service,No internet service,No internet service,No,Yes,Two year,No,Bank transfer (automatic),48.75487392163508,2546.3697383206977,No
+27A-B,Female,0,No,Yes,41,No,No phone service,DSL,No internet service,No internet service,No,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),23.41862212042262,981.866989034872,No
+28A-B,Female,0,Yes,No,9,No,Yes,Fiber optic,No internet service,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Electronic check,39.328336549558216,352.89870229302187,Yes
+29A-B,Male,1,No,Yes,3,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,40.63650366544495,129.49143669005895,Yes
+30A-B,Female,0,No,Yes,62,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No,No internet service,Yes,Two year,Yes,Electronic check,83.72160254578868,5178.168858302874,Yes
+31A-B,Female,0,No,Yes,5,Yes,No,No,No,No,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),96.86920850832476,475.3681123999304,Yes
+32A-B,Male,0,Yes,No,32,No,No,No,No,No,No internet service,No internet service,No,No,Two year,No,Bank transfer (automatic),36.62666549668405,1174.318236773673,No
+33A-B,Male,0,Yes,Yes,36,Yes,No,Fiber optic,Yes,No internet service,No,No internet service,No,Yes,One year,Yes,Credit card (automatic),114.92135727511648,4149.000686961426,No
+34A-B,Female,0,Yes,No ,8,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,50.58422332870617,386.5661671369983,Yes
+35A-B,Male,0,No,Yes,31,No,Yes,No,No internet service,No internet service,No internet service,Yes,No,No internet service,Two year,No,Bank transfer (automatic),41.650781241430536,1291.5551841352585,No
+36A-B,Male,1,Yes,No,49,Yes,No,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,Yes,Two year,No,Electronic check,47.67783418257635,2332.9250527052595,Yes
+37A-B,Female,0,No,No,67,No,No,DSL,No internet service,Yes,No internet service,Yes,No,No,Two year,No,Bank transfer (automatic),106.55853101742504,7152.730842028102,No
+38A-B,Male,0,Yes,No,23,No,No,Fiber optic,No internet service,No,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),38.35342617198472,884.5385086279382,Yes
+39A-B,Male,0,No,No,7,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),35.04244859691027,236.3021389946826,No
+40A-B,Female,1,No,Yes,54,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),66.61196626372775,3606.724870982314,No
+41A-B,Female,0,Yes,No,6,No,No,Fiber optic,No,No,No,No,No,No internet service,Month-to-month,No,Electronic check,61.72962737663188,372.98354315524773,Yes
+42A-B,Female,0,Yes,No,69,No,No phone service,DSL,Yes,No internet service,No,Yes,Yes,No,One year,No,Bank transfer (automatic),82.75458386558282,5713.613175580944,No
+43A-B,Male,0,Yes,No,11,No,No phone service,No,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,93.85126944737476,1031.604138986727,Yes
+44A-B,Male,0,Yes,Yes,36,Yes,No phone service,No,Yes,No internet service,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),94.38160463501512,3394.1695896104525,No
+45A-B,Male,0,No,No,6,No,No,DSL,No,No,No,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),39.17220484312449,225.2261553651936,Yes
+46A-B,Female,0,No,Yes,11,No,No,No,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,112.1961819582845,1247.3331421521148,Yes
+47A-B,Male,0,Yes,No,20,No,Yes,DSL,No internet service,No internet service,No,No internet service,Yes,Yes,One year,No,Electronic check,26.378588672271412,512.4451225856263,No
+48A-B,Female,0,Yes,Yes,11,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,No internet service,Yes,Month-to-month,No,Mailed check,74.63344568375766,814.7129121774625,No
+49A-B,Male,0,No,Yes,56,Yes,No phone service,No,No internet service,No,Yes,No internet service,Yes,Yes,Two year,No,Mailed check,94.18665443269721,5265.304922759004,No
+50A-B,Female,1,No,No,26,No,No,Fiber optic,No internet service,No,No,No,No internet service,No,Two year,Yes,Mailed check,59.80293042757467,1534.4752200473924,No
+51A-B,Female,0,Yes,No,11,No,Yes,DSL,No,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Electronic check,108.01147762816747,1185.9412641457957,Yes
+52A-B,Male,1,Yes,No,7,Yes,No phone service,Fiber optic,No,No internet service,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),115.38791858589231,813.1011048783711,Yes
+53A-B,Male,0,Yes,Yes,3,Yes,No,DSL,No,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,24.021588929988738,80.28028549553923,Yes
+54A-B,Male,0,No,Yes,20,Yes,No phone service,Fiber optic,No internet service,No internet service,No,Yes,No,Yes,Month-to-month,No,Electronic check,70.36425000557625,1404.2731942895082,Yes
+55A-B,Male,0,Yes,No,5,No,No,Fiber optic,No,No,Yes,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),104.06994108432875,522.1413747656424,Yes
+56A-B,Male,0,Yes,No,11,No,Yes,DSL,No,Yes,Yes,No,No,No internet service,Month-to-month,No,Mailed check,64.22778637582573,720.8356854098587,Yes
+57A-B,Male,0,Yes,No,4,Yes,Yes,DSL,No internet service,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Electronic check,68.13785489069582,273.3069423207869,Yes
+58A-B,Female,0,No,Yes,8,No,No,Fiber optic,No,No internet service,Yes,No internet service,No internet service,Yes,One year,No,Electronic check,115.96664956168111,919.5626315113569,Yes
+59A-B,Female,0,Yes,No,62,Yes,No phone service,No,No internet service,No,No internet service,No internet service,No,No,Two year,Yes,Mailed check,83.09831627550102,5145.287227755922,No
+60A-B,Male,0,No,No,2,Yes,No,DSL,No,Yes,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Mailed check,97.05276697555198,191.74561100402218,Yes
+61A-B,Female,0,Yes,No,3,Yes,No phone service,DSL,No internet service,No,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,87.19323891808028,259.1684619918545,Yes
+62A-B,Female,0,No,No,8,No,Yes,No,Yes,No,No,Yes,No internet service,No,Month-to-month,No,Electronic check,115.72705559384275,911.4386353738109,Yes
+63A-B,Female,0,Yes,Yes,4,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),46.44057385282608,178.67330162599896,Yes
+64A-B,Female,1,Yes,Yes,34,No,Yes,Fiber optic,No internet service,No,No internet service,No,No,No,Two year,Yes,Bank transfer (automatic),76.66618122681375,2611.2893218660074,No
+65A-B,Male,0,Yes,No,28,No,No,No,No,No,No internet service,No internet service,Yes,Yes,Two year,Yes,Electronic check,81.40914593628848,2288.5008689678407,No
+66A-B,Female,0,No,Yes,39,No,No,Fiber optic,No,No,No,No,No,No,Two year,No,Mailed check,91.87553927038071,3588.277736916086,No
+67A-B,Female,0,No,No,3,Yes,No,DSL,Yes,No internet service,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,88.87096087393452,272.8959808336806,Yes
+68A-B,Male,0,No,Yes,41,No,No,Fiber optic,No internet service,No,No internet service,No,No,Yes,Two year,Yes,Electronic check,54.733900928521365,2240.261258049677,No
+69A-B,Female,0,No,Yes,71,No,No phone service,DSL,No internet service,No,Yes,Yes,No,No internet service,One year,Yes,Credit card (automatic),117.50422817128275,8343.243088021654,No
+70A-B,Male,0,Yes,Yes,4,Yes,No,DSL,No internet service,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,58.29287043379433,227.6567803649042,Yes
+71A-B,Male,0,No,No,35,Yes,Yes,Fiber optic,No,No internet service,Yes,No,Yes,Yes,Two year,Yes,Mailed check,54.8624577507468,1932.5122401454762,No
+72A-B,Male,0,No,No,8,Yes,No phone service,DSL,No internet service,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),60.15880843805985,490.30486060531825,Yes
+73A-B,Male,0,No,No,29,Yes,No,No,No,Yes,Yes,No,No internet service,No,Two year,Yes,Bank transfer (automatic),55.6366249317843,1598.0739218093836,No
+74A-B,Female,0,No,Yes,13,No,Yes,No,Yes,Yes,No,No internet service,No,No,Month-to-month,Yes,Bank transfer (automatic),85.39386938085426,1116.057254973414,No
+75A-B,Female,0,No,No,17,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,Yes,Two year,No,Electronic check,79.97324710957236,1372.38977582867,Yes
+76A-B,Female,0,No,Yes,11,Yes,Yes,Fiber optic,No,Yes,No internet service,No,No,No internet service,Month-to-month,No,Electronic check,117.37749513546937,1294.6612293791932,Yes
+77A-B,Female,0,No,No,17,Yes,No,DSL,No,No internet service,No,Yes,No,No internet service,One year,Yes,Bank transfer (automatic),20.302150754650064,350.684682674087,No
+78A-B,Male,1,Yes,Yes,50,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No,Yes,No internet service,Two year,No,Mailed check,25.356902621871406,1273.119717730272,No
+79A-B,Male,0,Yes,No,48,Yes,Yes,No,No,No,Yes,No,No internet service,Yes,Two year,Yes,Credit card (automatic),26.667870296481446,1277.2795339733036,No
+80A-B,Male,0,No,No,2,Yes,No,DSL,No,No,No,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),18.45439423559629,26.8608544593879,Yes
+81A-B,Female,1,No,Yes,18,No,No,No,No,Yes,Yes,No internet service,No,No,Month-to-month,Yes,Mailed check,82.21687175945205,1465.040664872521,No
+82A-B,Female,0,No,No,3,No,No,Fiber optic,Yes,No internet service,No,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,18.978472265430078,38.98134704453367,Yes
+83A-B,Female,1,Yes,Yes,19,No,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),64.20753816037535,1231.9301264518726,Yes
+84A-B,Female,0,Yes,Yes,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No,One year,Yes,Bank transfer (automatic),55.51526720614585,3107.3397877223533,No
+85A-B,Female,0,No,Yes,51,Yes,No,DSL,No,No internet service,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),36.3310416497834,1854.8375938634902,No
+86A-B,Female,1,Yes,No,12,Yes,Yes,DSL,Yes,No,No internet service,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),110.30428723644815,1318.170197458224,No
+87A-B,Female,1,No,No,1,No,No phone service,No,Yes,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,72.80829890189487,65.50621991370669,Yes
+88A-B,Female,0,Yes,Yes,50,No,Yes,DSL,No internet service,No internet service,No internet service,No,Yes,No,Two year,Yes,Mailed check,117.63099074883309,5885.600849709682,No
+89A-B,Female,0,Yes,Yes,31,No,Yes,DSL,No internet service,No internet service,No,No,No internet service,No,One year,No,Electronic check,56.87364509214078,1757.7351312648689,No
+90A-B,Female,1,No,No,35,Yes,Yes,DSL,Yes,Yes,No internet service,Yes,No internet service,No,Two year,No,Credit card (automatic),22.38712517112434,780.7086367668026,No
+91A-B,Female,0,No,Yes,25,No,Yes,No,No,Yes,Yes,No internet service,No internet service,No,One year,Yes,Bank transfer (automatic),70.46442985597687,1761.8669636290397,No
+92A-B,Female,0,No,No,11,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No internet service,Month-to-month,Yes,Mailed check,118.70863215833691,1304.4346506047823,Yes
+93A-B,Male,0,No,No,67,No,No phone service,DSL,Yes,No internet service,Yes,No,No internet service,Yes,One year,No,Electronic check,23.7146582592201,1595.5497161780302,No
+94A-B,Female,0,No,No,45,No,No,No,No internet service,No,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),114.26412123492574,5139.370079216699,No
+95A-B,Female,0,Yes,Yes,30,No,No,No,No internet service,No,No,No,Yes,No internet service,Two year,No,Bank transfer (automatic),93.02138762158911,2783.546850066692,No
+96A-B,Female,0,No,No,64,Yes,No,No,Yes,No,Yes,No internet service,No internet service,Yes,Two year,No,Mailed check,99.3726834840407,6339.140965397579,No
+97A-B,Female,0,Yes,No,6,Yes,No,Fiber optic,No,No,No internet service,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),101.40004316168739,604.3291565211288,Yes
+98A-B,Female,0,Yes,Yes,61,No,Yes,No,Yes,No,No,No,No internet service,No internet service,Month-to-month,No,Electronic check,114.03474009334438,6937.151847955052,Yes
+99A-B,Male,0,Yes,No,2,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,39.85208265868869,60.49337429342359,Yes
+100A-B,Female,0,No,No,35,No,No,No,Yes,No,No internet service,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),86.13050556539177,3013.8124141307826,No
+101A-B,Male,0,Yes,No,11,Yes,No phone service,Fiber optic,No,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),98.87087054025741,1087.7763896268002,Yes
+102A-B,Female,0,Yes,No,60,No,No,No,Yes,No,Yes,Yes,Yes,No internet service,One year,No,Credit card (automatic),100.86047260622372,6047.488374084863,No
+103A-B,Male,0,Yes,Yes,36,No,No phone service,Fiber optic,Yes,Yes,No internet service,No,No,Yes,Two year,Yes,Electronic check,85.4565414503708,3070.0468708016097,No
+104A-B,Female,0,Yes,No,63,No,Yes,DSL,No internet service,No,No,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),89.62906230510852,5648.285865698898,No
+105A-B,Female,0,Yes,Yes,5,No,No,No,No,No internet service,Yes,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),114.29920256148783,571.4374497073501,Yes
+106A-B,Female,1,Yes,Yes,27,No,No phone service,No,No,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Mailed check,28.36070929337024,751.2176892967109,No
+107A-B,Female,1,Yes,Yes,71,Yes,Yes,No,No,No,No,Yes,Yes,No internet service,Two year,No,Electronic check,76.64112244745856,5447.375740418111,No
+108A-B,Male,0,No,No,2,No,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),98.52290127885335,179.2196387011486,Yes
+109A-B,Male,0,No,Yes,29,No,No,Fiber optic,No internet service,No,Yes,No internet service,Yes,No internet service,Month-to-month,No,Mailed check,29.30683339707888,840.0062460028432,No
+110A-B,Male,0,No,No,58,Yes,No,DSL,No,No,Yes,No internet service,No,No internet service,Two year,No,Mailed check,66.99372246606185,3889.577598059496,No
+111A-B,Male,1,Yes,No,10,No,No phone service,No,Yes,Yes,No,Yes,No,Yes,Month-to-month,No,Mailed check,58.70441974593962,591.5446456972782,Yes
+112A-B,Male,0,Yes,No,25,Yes,No phone service,Fiber optic,No internet service,Yes,No,No,Yes,No,One year,No,Bank transfer (automatic),52.839132624598776,1316.583300025297,No
+113A-B,Male,0,Yes,Yes,39,Yes,No phone service,Fiber optic,No internet service,No internet service,No,No internet service,No,No internet service,Two year,Yes,Bank transfer (automatic),56.87838944919571,2232.543155715207,No
+114A-B,Female,0,No,No,6,No,No,No,Yes,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),74.48171280598822,447.044181894969,Yes
+115A-B,Male,1,No,No,4,No,No phone service,DSL,Yes,Yes,Yes,No internet service,Yes,Yes,One year,No,Bank transfer (automatic),85.88248364475592,346.3413813375106,No
+116A-B,Female,0,No,No,8,No,Yes,No,Yes,No internet service,No,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),84.3410330406613,698.6889409512963,No
+117A-B,Female,1,Yes,No,29,No,No phone service,Fiber optic,No,No,No internet service,No,No internet service,No,Two year,Yes,Credit card (automatic),62.38953996224488,1802.083890380228,No
+118A-B,Female,0,Yes,Yes,13,No,Yes,DSL,No,No internet service,No internet service,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),22.85380241412815,313.7732150980321,No
+119A-B,Male,1,No,Yes,51,No,No,No,No,No internet service,No,No internet service,Yes,Yes,Two year,No,Electronic check,35.66748233386183,1829.5988061709072,No
+120A-B,Male,0,Yes,Yes,65,Yes,No,DSL,No,No internet service,No internet service,Yes,No internet service,No,Two year,No,Credit card (automatic),23.367424684687528,1513.590173361034,No
+121A-B,Female,0,Yes,No,4,Yes,No,No,No internet service,No,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,52.54694429367939,218.4676240731158,Yes
+122A-B,Female,0,Yes,No,25,Yes,No,No,No internet service,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),42.20445171751261,1062.7870118746841,No
+123A-B,Female,0,No,No,33,No,No,DSL,No internet service,No internet service,No internet service,Yes,No,No internet service,Month-to-month,No,Credit card (automatic),55.1297506055736,1814.9982256493472,No
+124A-B,Male,1,No,Yes,23,Yes,No phone service,Fiber optic,No,Yes,Yes,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),84.27244575392584,1944.4288573243182,No
+125A-B,Male,0,No,No,1,Yes,No,DSL,Yes,No internet service,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),113.46563484045073,106.82839111295124,Yes
+126A-B,Male,1,Yes,Yes,8,No,No phone service,No,No,No internet service,No,No internet service,No,No,Month-to-month,No,Electronic check,71.48213335313055,571.707535418088,No
+127A-B,Male,0,Yes,Yes,1,No,No phone service,DSL,Yes,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,33.48710740022608,24.085499931090315,Yes
+128A-B,Female,0,No,Yes,2,No,No phone service,Fiber optic,Yes,Yes,No internet service,No internet service,Yes,No,One year,No,Credit card (automatic),71.2442510150022,138.75985287961993,No
+129A-B,Female,0,Yes,No,22,No,No phone service,No,Yes,No internet service,Yes,No internet service,Yes,Yes,One year,No,Bank transfer (automatic),46.40173909332316,1006.007466559393,No
+130A-B,Male,0,No,No,38,No,Yes,Fiber optic,No internet service,No,No,No,Yes,No internet service,Two year,Yes,Bank transfer (automatic),37.913777728563915,1441.700077246861,No
+131A-B,Female,1,No,No,64,No,Yes,No,Yes,Yes,Yes,Yes,No,No internet service,Two year,No,Bank transfer (automatic),55.824810770530796,3571.9620548035523,No
+132A-B,Male,0,Yes,Yes,3,No,Yes,No,No,Yes,No,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),85.46157599618299,270.73677365411174,Yes
+133A-B,Female,0,Yes,No,4,No,Yes,Fiber optic,Yes,No internet service,No internet service,No,Yes,Yes,Month-to-month,No,Electronic check,100.70552241767048,407.67178410500884,Yes
+134A-B,Female,0,No,Yes,10,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),69.81820510101909,707.2893667129379,Yes
+135A-B,Male,1,No,No,4,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,One year,No,Credit card (automatic),27.532650687492858,110.89892257875154,No
+136A-B,Female,0,Yes,No,63,Yes,No,DSL,Yes,No internet service,No internet service,Yes,No,Yes,Two year,No,Mailed check,49.429973306170396,3110.5177999220264,No
+137A-B,Male,0,No,No,50,No,No,No,No,No,No,Yes,Yes,Yes,Two year,Yes,Electronic check,75.50890380832348,3781.136464686068,No
+138A-B,Female,1,Yes,Yes,40,Yes,Yes,No,Yes,No internet service,No internet service,No,No,Yes,Two year,No,Mailed check,62.891020592895785,2518.4805609621885,No
+139A-B,Male,0,No,No,55,Yes,No phone service,Fiber optic,No internet service,No,No,No internet service,No,No internet service,One year,Yes,Credit card (automatic),99.27244354051655,5457.489571752777,No
+140A-B,Male,0,No,Yes,3,Yes,Yes,Fiber optic,No,No,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,79.68760673603425,246.14420623922433,Yes
+141A-B,Male,0,Yes,No,66,No,No,No,No internet service,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,51.97017849451212,3419.056562168289,No
+142A-B,Male,0,Yes,No,30,No,No phone service,DSL,Yes,No internet service,No internet service,No,No internet service,No internet service,Two year,Yes,Mailed check,63.56801798974369,1910.2629995904174,No
+143A-B,Male,1,Yes,No,7,No,No phone service,No,No internet service,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Electronic check,41.455133772418954,289.53799543932615,Yes
+144A-B,Male,1,No,No,34,Yes,No phone service,No,Yes,No,No internet service,No internet service,No internet service,Yes,Two year,No,Bank transfer (automatic),103.49964525443656,3517.169665655697,No
+145A-B,Female,0,Yes,Yes,6,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,One year,No,Credit card (automatic),61.17322606939217,350.39584698441337,Yes
+146A-B,Male,0,Yes,No,11,Yes,No phone service,No,No,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),28.132878348265344,316.7128774842444,Yes
+147A-B,Male,0,Yes,No,2,Yes,Yes,No,Yes,Yes,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),81.85703427044493,158.7248026029079,Yes
+148A-B,Female,1,No,Yes,5,Yes,Yes,DSL,No internet service,No,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),82.70750590443576,411.22370601834575,Yes
+149A-B,Female,0,Yes,Yes,65,No,No,No,No internet service,No internet service,Yes,No internet service,No internet service,No,Two year,Yes,Credit card (automatic),102.51701457134375,6668.184671879367,No
+150A-B,Female,1,Yes,Yes,66,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),38.455394105653724,2531.9847027189326,No
+151A-B,Male,0,Yes,Yes,39,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No,No,Two year,No,Mailed check,106.74454323788746,4169.914135087905,No
+152A-B,Female,0,No,No,58,No,No phone service,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),67.87410392773036,3940.228950668938,No
+153A-B,Male,0,No,No,10,No,Yes,DSL,No internet service,Yes,No,Yes,No,No internet service,Month-to-month,No,Mailed check,23.95301767158513,217.9657743102275,Yes
+154A-B,Female,0,No,Yes,43,Yes,No phone service,DSL,No,No internet service,Yes,Yes,No,No internet service,Two year,Yes,Mailed check,83.0469897403402,3576.0630230595716,No
+155A-B,Male,0,Yes,No,50,No,No phone service,DSL,No internet service,No internet service,No internet service,Yes,Yes,No internet service,Two year,Yes,Mailed check,50.09035224849181,2505.3432645280573,No
+156A-B,Female,0,No,No,5,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),118.18945231719158,586.0431057671391,Yes
+157A-B,Male,0,No,Yes,10,Yes,No,Fiber optic,Yes,No internet service,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),18.2601893051028,175.01462849613495,Yes
+158A-B,Female,0,Yes,No,11,Yes,No,DSL,Yes,Yes,Yes,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),76.46063001690553,835.7151965352656,No
+159A-B,Male,1,No,Yes,62,No,No,DSL,No internet service,No internet service,Yes,No internet service,Yes,Yes,Two year,No,Credit card (automatic),82.88087693174128,5135.109510889081,No
+160A-B,Female,1,No,No,9,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,86.52893457978614,760.222873515627,Yes
+161A-B,Female,0,Yes,Yes,68,No,Yes,Fiber optic,Yes,No,No internet service,Yes,No,Yes,One year,Yes,Electronic check,81.29197863891287,5535.329186418503,No
+162A-B,Male,0,No,Yes,59,Yes,No,DSL,Yes,No,No internet service,No,No,No internet service,Two year,Yes,Mailed check,71.49112035953729,4231.18466801624,No
+163A-B,Female,0,Yes,No,48,No,No phone service,DSL,No,No internet service,Yes,No,Yes,No,Two year,Yes,Mailed check,67.13105932167284,3231.2618541134316,No
+164A-B,Female,0,No,Yes,66,Yes,No phone service,DSL,No,No internet service,No internet service,No,No,No internet service,Month-to-month,No,Credit card (automatic),29.78097923113794,1958.6910364918153,No
+165A-B,Female,0,No,Yes,1,No,No,Fiber optic,Yes,No internet service,No,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,48.61286548492344,45.03332999656916,Yes
+166A-B,Female,0,No,Yes,30,No,No,No,No,No,No internet service,No internet service,No,No,Two year,No,Mailed check,87.2338934621146,2603.849111860269,No
+167A-B,Male,0,Yes,No,7,Yes,Yes,No,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,94.50742668303818,674.575456647062,Yes
+168A-B,Male,0,Yes,Yes,46,Yes,No,No,No internet service,No internet service,No internet service,No,Yes,Yes,Two year,Yes,Electronic check,109.2068184233711,5015.181542617143,No
+169A-B,Female,1,No,No,48,No,Yes,No,Yes,Yes,No,No internet service,Yes,Yes,Two year,Yes,Electronic check,83.47186467161889,4005.1611647403847,No
+170A-B,Female,0,Yes,Yes,28,No,No,DSL,No,No internet service,No,No,No internet service,No,Two year,No,Electronic check,50.05054818087545,1410.7807519131445,No
+171A-B,Female,0,Yes,No,14,Yes,No,DSL,No,No,Yes,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),83.21231218381101,1157.0887000581902,Yes
+172A-B,Male,0,No,Yes,39,No,No,No,Yes,Yes,No internet service,No,No,No,Month-to-month,Yes,Electronic check,84.43383627305718,3279.8180196784556,Yes
+173A-B,Female,0,Yes,Yes,34,No,No,DSL,No internet service,No internet service,No internet service,No,No internet service,No,Two year,No,Bank transfer (automatic),70.54774997999633,2391.327492826826,No
+174A-B,Female,0,Yes,No,58,Yes,Yes,No,No,Yes,No,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,64.4101388257181,3726.444186034655,No
+175A-B,Male,0,No,Yes,7,No,Yes,No,No,No internet service,Yes,No internet service,No,No internet service,Month-to-month,No,Mailed check,41.72745947366789,299.2610339938794,No
+176A-B,Female,0,Yes,No,1,No,No,Fiber optic,No,Yes,Yes,No internet service,Yes,Yes,One year,No,Electronic check,22.89167075336699,21.347196085833854,Yes
+177A-B,Male,1,No,No,11,No,No,DSL,No,No internet service,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),117.24603784379735,1292.5109639582279,Yes
+178A-B,Female,0,No,Yes,11,No,No phone service,No,No internet service,Yes,Yes,No internet service,No internet service,No internet service,One year,Yes,Mailed check,106.71141620130919,1184.9505755224984,No
+179A-B,Male,0,No,Yes,33,Yes,Yes,No,No internet service,No,No internet service,Yes,Yes,No internet service,Two year,No,Bank transfer (automatic),32.87107445358563,1071.7762690445743,No
+180A-B,Female,0,Yes,Yes,66,No,Yes,DSL,No internet service,Yes,Yes,No internet service,No,No,Two year,No,Mailed check,102.95099428033697,6801.217978901783,No
+181A-B,Male,0,Yes,Yes,1,Yes,No phone service,DSL,No internet service,Yes,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,75.73165021147649,90.15425137242663,Yes
+182A-B,Male,0,Yes,No,4,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No internet service,One year,No,Electronic check,106.50110132578799,427.4485935093941,Yes
+183A-B,Female,0,Yes,No,7,Yes,Yes,DSL,No,Yes,Yes,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),86.0282197826554,598.7045983355841,Yes
+184A-B,Female,0,Yes,Yes,37,Yes,Yes,DSL,Yes,No,Yes,No internet service,No,Yes,Two year,No,Credit card (automatic),21.26544819260914,782.5636361788734,No
+185A-B,Male,0,No,No,27,No,Yes,Fiber optic,No,Yes,No,Yes,No,No internet service,Month-to-month,No,Credit card (automatic),56.721716842737045,1528.2208553979801,No
+186A-B,Male,1,No,No,48,No,Yes,DSL,Yes,No internet service,No internet service,No internet service,Yes,No internet service,Two year,Yes,Mailed check,106.32678498747195,5101.102137544589,No
+187A-B,Female,0,Yes,No,33,No,Yes,No,Yes,No,No,No internet service,No,No internet service,One year,No,Bank transfer (automatic),70.53003584920667,2326.0612657348993,No
+188A-B,Male,0,No,No,60,Yes,No,Fiber optic,Yes,No,Yes,No internet service,No internet service,Yes,Two year,Yes,Bank transfer (automatic),32.672392342291054,1945.4412158975222,No
+189A-B,Male,0,Yes,Yes,3,No,No phone service,DSL,Yes,No,No,No,Yes,No internet service,Month-to-month,Yes,Mailed check,86.12057856346611,264.44569120970124,Yes
+190A-B,Male,0,No,No,2,Yes,Yes,DSL,Yes,No internet service,No,No,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),94.83519239408523,187.61856006524098,Yes
+191A-B,Male,0,No,No,49,No,Yes,No,Yes,No internet service,No internet service,No internet service,No internet service,Yes,Two year,Yes,Electronic check,59.89101787941588,2949.2590013417075,No
+192A-B,Male,0,Yes,Yes,7,Yes,No,No,No internet service,No,No internet service,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),112.49357954636835,796.8385039777887,No
+193A-B,Female,1,Yes,Yes,5,No,No,No,No,Yes,No,No,No internet service,No,Month-to-month,No,Mailed check,117.0129060555785,580.9869292858529,Yes
+194A-B,Male,1,Yes,No,3,No,Yes,DSL,No internet service,No,No internet service,Yes,No,Yes,Month-to-month,No,Mailed check,71.25661081186583,197.57126404973476,Yes
+195A-B,Male,0,No,No,50,No,No phone service,DSL,No,Yes,No,No,No internet service,Yes,Two year,No,Credit card (automatic),73.09948016397345,3654.4232439903017,No
+196A-B,Male,0,No,Yes,4,No,No,No,No internet service,No internet service,No internet service,No internet service,Yes,No,Month-to-month,No,Mailed check,96.29027405853469,383.0189448187196,Yes
+197A-B,Female,1,Yes,Yes,48,No,No,DSL,No internet service,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Electronic check,55.761342237159546,2674.0734065977695,No
+198A-B,Female,0,No,Yes,13,Yes,No,DSL,No,Yes,No,No internet service,Yes,Yes,One year,Yes,Credit card (automatic),72.21753943132258,939.5723910306999,No
+199A-B,Female,0,No,No,20,No,No phone service,Fiber optic,No internet service,No internet service,No,No internet service,Yes,Yes,One year,No,Bank transfer (automatic),80.86528381300042,1606.877562436797,No
+200A-B,Female,0,No,Yes,50,No,No,DSL,No internet service,No,No,Yes,No internet service,No internet service,Two year,Yes,Mailed check,108.17800852897848,5408.386202090298,No
+201A-B,Female,0,Yes,Yes,56,No,No phone service,Fiber optic,Yes,Yes,No,No internet service,No,No internet service,Two year,No,Electronic check,49.506884651680565,2762.811000571288,Yes
+202A-B,Female,0,Yes,Yes,64,No,No phone service,No,Yes,No internet service,Yes,No internet service,Yes,No,Two year,Yes,Credit card (automatic),47.0063685168375,3021.911674060271,No
+203A-B,Male,0,No,No,12,Yes,No,Fiber optic,No,No internet service,No internet service,Yes,No,Yes,One year,Yes,Credit card (automatic),66.7869833102352,803.0850908406517,No
+204A-B,Female,1,No,No,8,No,No,No,No,No,No,No internet service,No,Yes,Month-to-month,No,Mailed check,89.7775940692733,697.2087277141248,Yes
+205A-B,Male,0,No,Yes,22,No,No phone service,Fiber optic,No,Yes,No internet service,Yes,No,No,Two year,Yes,Electronic check,22.981975333945233,494.440703209073,No
+206A-B,Female,0,No,Yes,62,Yes,No phone service,DSL,No internet service,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,35.89600525364271,2218.027415350884,No
+207A-B,Female,0,No,No,8,Yes,Yes,No,No internet service,No internet service,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,72.22779464901507,590.6821458428481,Yes
+208A-B,Female,0,Yes,Yes,51,No,Yes,DSL,Yes,No,Yes,No internet service,Yes,Yes,Two year,Yes,Electronic check,93.76045915858032,4771.70293096381,No
+209A-B,Male,0,Yes,No,10,No,Yes,Fiber optic,Yes,No,No,No,No,No internet service,Month-to-month,No,Electronic check,63.987513006758846,642.4792090728565,Yes
+210A-B,Male,0,No,No,41,No,Yes,DSL,No internet service,Yes,No,No,No,No internet service,Two year,No,Bank transfer (automatic),85.73171416170737,3509.780150774819,No
+211A-B,Female,0,Yes,Yes,3,Yes,No,DSL,No,No,Yes,No internet service,No,Yes,Month-to-month,No,Credit card (automatic),22.06832533000582,37.284658035849986,Yes
+212A-B,Female,0,No,Yes,63,Yes,No phone service,Fiber optic,No,Yes,No,No,No,No,Two year,Yes,Mailed check,62.915005347898855,3963.8150688342453,No
+213A-B,Female,0,Yes,No,6,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,No,Electronic check,28.113825823921243,162.84187957131397,Yes
+214A-B,Female,0,No,No,9,No,No,No,Yes,No internet service,Yes,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),68.03102524298913,614.6731774791646,Yes
+215A-B,Male,0,No,Yes,8,No,Yes,Fiber optic,No,No internet service,No internet service,Yes,No,Yes,One year,No,Bank transfer (automatic),103.56339629274429,821.8542017561538,Yes
+216A-B,Female,0,No,No,66,Yes,No phone service,No,Yes,No internet service,Yes,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),97.78879394985653,6452.357036695964,No
+217A-B,Female,0,No,Yes,10,Yes,No,Fiber optic,Yes,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Mailed check,112.31203054793602,1121.2709755333772,Yes
+218A-B,Male,0,No,Yes,19,Yes,Yes,No,No internet service,No internet service,No,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),80.78396928290604,1531.756004769665,Yes
+219A-B,Male,1,No,Yes,1,No,Yes,Fiber optic,Yes,No internet service,No,Yes,Yes,No internet service,Month-to-month,No,Electronic check,108.28532669371528,125.20166259441886,Yes
+220A-B,Male,1,Yes,Yes,50,No,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,39.207365037132334,1960.8348293577874,Yes
+221A-B,Female,0,No,No,10,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),63.71127628125193,653.3762649459296,Yes
+222A-B,Female,0,Yes,Yes,14,Yes,No phone service,DSL,No,No,No,Yes,No,No internet service,Month-to-month,Yes,Mailed check,114.90006735149892,1586.6185597707179,Yes
+223A-B,Male,1,No,Yes,26,Yes,No,DSL,No internet service,No,No,Yes,Yes,No internet service,One year,No,Mailed check,95.34651879166442,2467.616862075575,No
+224A-B,Male,0,Yes,No,59,Yes,No phone service,DSL,No internet service,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,81.77132755607155,4825.816166738969,Yes
+225A-B,Male,1,No,Yes,57,No,No phone service,DSL,No,Yes,No internet service,No,No,No,Two year,Yes,Credit card (automatic),54.491062842904746,3101.159802508812,No
+226A-B,Female,0,Yes,No,10,No,Yes,Fiber optic,No internet service,No,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),30.216731744377363,308.3716489268314,Yes
+227A-B,Male,0,Yes,No,51,No,No,No,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),67.72654667688192,3450.471445911678,No
+228A-B,Female,0,No,No,9,No,No,Fiber optic,No internet service,No internet service,Yes,No,No,Yes,Month-to-month,No,Mailed check,51.969894313828334,466.3334758496431,Yes
+229A-B,Female,0,No,Yes,19,No,Yes,No,Yes,No,Yes,No internet service,No,No,One year,Yes,Electronic check,53.67093026394426,1016.1982154528159,No
+230A-B,Female,0,No,No,55,Yes,Yes,No,No internet service,No internet service,No,Yes,No,Yes,One year,No,Electronic check,22.144026431850673,1211.7166216411981,No
+231A-B,Female,0,No,No,9,No,Yes,Fiber optic,No,No internet service,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),105.70049035304044,949.6644850341451,Yes
+232A-B,Female,1,No,No,56,No,No phone service,Fiber optic,Yes,No,No internet service,No internet service,Yes,Yes,One year,Yes,Electronic check,106.89598308604147,5993.120264416398,No
+233A-B,Male,0,No,Yes,4,No,No,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),34.17395577159421,129.5762784195632,Yes
+234A-B,Male,0,No,No,11,Yes,Yes,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),99.69654757799502,1083.2784860584825,Yes
+235A-B,Female,0,No,Yes,28,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,78.24994202462064,2197.4139201438716,No
+236A-B,Male,0,Yes,No,12,No,No,DSL,No internet service,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),39.48577875016837,474.94122718503417,No
+237A-B,Male,0,Yes,No,7,No,Yes,Fiber optic,Yes,No internet service,No internet service,No internet service,No,No internet service,One year,Yes,Mailed check,77.4196654101826,536.627452408483,No
+238A-B,Male,0,No,Yes,6,No,No phone service,Fiber optic,Yes,No,Yes,No internet service,Yes,No,Month-to-month,Yes,Mailed check,109.72127653715509,656.5231808871351,Yes
+239A-B,Female,1,No,Yes,14,Yes,No phone service,Fiber optic,No internet service,No internet service,No,No,No,No,Month-to-month,No,Mailed check,51.604517906878726,718.2410930968642,Yes
+240A-B,Male,0,No,No,56,No,Yes,No,Yes,No internet service,No internet service,No,No internet service,No internet service,Two year,Yes,Credit card (automatic),75.96400875939702,4251.886823521406,No
+241A-B,Male,0,No,Yes,55,Yes,No,DSL,Yes,No,No,No,No,Yes,Two year,Yes,Credit card (automatic),108.45688985085462,5959.591072782784,No
+242A-B,Male,0,No,No,44,No,No phone service,DSL,Yes,No internet service,No internet service,No internet service,No,No,Two year,No,Electronic check,102.31227276591058,4486.879466054367,No
+243A-B,Male,0,No,No,14,Yes,Yes,Fiber optic,No internet service,Yes,Yes,Yes,No,No internet service,One year,Yes,Electronic check,110.74924054976016,1545.3921910090758,No
+244A-B,Female,0,No,No,7,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,No,Electronic check,111.60889919844743,780.7873930756363,Yes
+245A-B,Female,1,No,No,29,Yes,No,Fiber optic,No,No internet service,No internet service,No,No,No,Two year,Yes,Credit card (automatic),110.85866784349088,3212.5749285409893,No
+246A-B,Male,0,Yes,No,9,No,No,No,No,No,No internet service,Yes,No internet service,Yes,Month-to-month,No,Electronic check,18.601758451067596,176.81230997840868,Yes
+247A-B,Female,1,No,Yes,52,No,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,85.47425244251306,4451.991403786793,Yes
+248A-B,Male,0,Yes,No,5,No,Yes,DSL,No internet service,No internet service,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),88.9511147020994,438.9205335148995,Yes
+249A-B,Female,0,Yes,Yes,6,No,No,DSL,Yes,No internet service,No,Yes,No internet service,No,Month-to-month,No,Electronic check,66.56894819930962,393.68552257931765,Yes
+250A-B,Female,0,Yes,Yes,31,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),97.27473936093841,3001.223602897885,No
+251A-B,Male,1,Yes,No,45,No,Yes,Fiber optic,No,No internet service,No,No internet service,No internet service,Yes,Two year,Yes,Electronic check,68.78079140016497,3096.7672865086233,No
+252A-B,Male,0,Yes,Yes,11,No,Yes,Fiber optic,No internet service,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),62.50280172292483,675.395006272286,Yes
+253A-B,Female,0,No,No,60,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Two year,Yes,Electronic check,58.10331241102251,3489.7381559720034,No
+254A-B,Female,0,No,Yes,22,Yes,No phone service,No,No,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,60.1559549382018,1314.445173307042,No
+255A-B,Male,0,No,No,16,Yes,No,Fiber optic,No,No,No,No,No internet service,No,One year,No,Credit card (automatic),77.34489520506014,1220.0906484973227,No
+256A-B,Female,0,No,No,62,Yes,No,No,No,Yes,No,No internet service,No,No,Two year,No,Electronic check,72.89895384495036,4529.677150807979,No
+257A-B,Female,0,No,No,2,No,Yes,DSL,Yes,Yes,Yes,No internet service,No,No,Month-to-month,Yes,Bank transfer (automatic),29.37946933395365,49.21162408934888,No
+258A-B,Male,0,No,No,66,Yes,No,Fiber optic,No,Yes,No internet service,No,Yes,No,Two year,No,Bank transfer (automatic),35.59186268892391,2342.501687165557,No
+259A-B,Female,0,No,Yes,23,No,No,No,No,No,No internet service,No,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),24.88539653982564,580.879190567978,No
+260A-B,Female,0,No,Yes,6,No,No,No,Yes,No,No internet service,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),102.60707285566927,637.1839753631289,Yes
+261A-B,Male,0,Yes,No,21,Yes,No,No,Yes,No,No,Yes,No,No internet service,One year,Yes,Bank transfer (automatic),69.26236708330686,1448.1895676444913,No
+262A-B,Female,0,Yes,Yes,36,Yes,No phone service,DSL,No internet service,Yes,No,Yes,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),91.08347434452155,3281.937723985893,No
+263A-B,Male,0,Yes,No,69,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,Yes,One year,No,Credit card (automatic),78.07613496912008,5385.975311123558,No
+264A-B,Male,0,Yes,No,21,Yes,No,Fiber optic,No internet service,No,No internet service,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),98.6412546827442,2079.130205558946,No
+265A-B,Female,0,No,No,6,No,No,DSL,Yes,Yes,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,48.407598901907775,290.8152766692651,Yes
+266A-B,Female,0,No,No,3,No,No,DSL,No,No internet service,Yes,Yes,No internet service,No,Month-to-month,No,Mailed check,43.38657963375023,133.2610446659505,No
+267A-B,Male,0,No,Yes,10,No,No phone service,Fiber optic,Yes,No internet service,No internet service,No internet service,No,Yes,Month-to-month,Yes,Electronic check,114.78710856140168,1142.9467282630153,Yes
+268A-B,Female,1,No,No,13,No,No,No,Yes,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),108.79086373794283,1410.4790184391643,No
+269A-B,Male,1,Yes,No,4,Yes,Yes,No,No internet service,Yes,No,No internet service,No,No,Month-to-month,No,Electronic check,118.52473252817155,496.7315027746019,Yes
+270A-B,Female,0,Yes,Yes,37,No,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,No,Yes,Two year,No,Electronic check,41.91140027815773,1557.100118305395,Yes
+271A-B,Female,1,Yes,Yes,61,Yes,No phone service,Fiber optic,No internet service,No,Yes,No internet service,No,No internet service,One year,Yes,Electronic check,67.70096148112756,4149.51241123277,Yes
+272A-B,Female,0,Yes,No,12,No,No,Fiber optic,Yes,No,No internet service,Yes,No,No,Month-to-month,Yes,Credit card (automatic),67.11656012151195,789.5628869504349,No
+273A-B,Female,0,Yes,No,32,No,No phone service,Fiber optic,No,No,No internet service,No,Yes,No internet service,One year,No,Bank transfer (automatic),101.2567711146763,3250.445646737756,No
+274A-B,Female,0,No,Yes,3,Yes,Yes,Fiber optic,No internet service,Yes,Yes,Yes,No,Yes,One year,Yes,Mailed check,45.072486194710535,129.7764175054905,Yes
+275A-B,Male,0,No,No,7,Yes,Yes,No,No,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),70.37947380584487,487.3611102133554,Yes
+276A-B,Female,1,No,Yes,62,No,Yes,DSL,No,No internet service,No,No internet service,No internet service,Yes,Two year,Yes,Credit card (automatic),43.68990738848693,2691.9337368045813,No
+277A-B,Male,0,Yes,No,28,Yes,No phone service,DSL,No internet service,Yes,No,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),65.59367651804862,1846.0350550376813,No
+278A-B,Female,0,Yes,Yes,15,No,No phone service,No,No,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,38.61472077126021,575.3440520001537,No
+279A-B,Female,0,No,No,5,No,Yes,Fiber optic,No,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Mailed check,92.88081431588827,475.3265199158881,Yes
+280A-B,Female,1,Yes,Yes,63,Yes,No,No,No,No,No,No internet service,Yes,No,Two year,No,Electronic check,117.20381799797943,7367.9852179195605,No
+281A-B,Male,0,No,No,20,No,No,No,Yes,Yes,No,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),30.01229419144645,590.2490985980701,No
+282A-B,Male,0,No,Yes,42,No,No phone service,No,No internet service,No internet service,No internet service,No,No,No internet service,Two year,No,Electronic check,88.39109704430315,3711.5486101628435,No
+283A-B,Female,0,No,Yes,7,Yes,No,Fiber optic,No,Yes,No internet service,No,No internet service,No,Month-to-month,No,Credit card (automatic),46.576520347081946,320.51610655697897,Yes
+284A-B,Male,0,Yes,Yes,5,No,No phone service,No,Yes,Yes,No,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),82.94191573156391,397.0625774152196,Yes
+285A-B,Male,0,No,Yes,14,No,Yes,Fiber optic,No,No internet service,No,No,No,No internet service,Month-to-month,No,Mailed check,49.432820075517256,684.6045412876581,No
+286A-B,Male,0,No,No,48,Yes,No,No,No,Yes,Yes,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),59.07960544484202,2842.8316482658406,No
+287A-B,Female,0,No,No,11,No,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,114.6116250727248,1263.0563067978,Yes
+288A-B,Male,0,No,Yes,60,No,No,DSL,No,Yes,No,No,No,Yes,Two year,Yes,Electronic check,79.16753577138192,4748.247394354697,No
+289A-B,Female,0,No,Yes,39,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,No,No,Two year,No,Electronic check,79.20302324682032,3086.3163186724696,No
+290A-B,Male,1,Yes,No,5,Yes,No phone service,No,No internet service,No internet service,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),76.71749437597354,378.73564229181085,Yes
+291A-B,Male,0,Yes,No,3,Yes,No phone service,No,No,No internet service,No,No,No internet service,No,Month-to-month,Yes,Electronic check,101.87756579611396,289.4741957994009,Yes
+292A-B,Male,0,No,No,4,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),52.92303279642593,209.02821199988108,No
+293A-B,Female,0,Yes,Yes,8,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),76.65770621434288,615.699498237813,No
+294A-B,Female,1,No,No,1,Yes,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),95.6342615366218,90.79762335515248,Yes
+295A-B,Male,0,Yes,Yes,5,No,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),18.30581661334087,83.9695752783916,Yes
+296A-B,Male,0,No,No,26,Yes,No phone service,DSL,Yes,No,No internet service,No internet service,No internet service,No,Two year,Yes,Electronic check,108.87612381960673,2826.1777282723147,No
+297A-B,Male,1,No,Yes,5,Yes,No,DSL,No internet service,No,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,98.44600226103127,496.6223195085545,Yes
+298A-B,Male,1,Yes,Yes,17,Yes,No phone service,No,Yes,No,No,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),43.71444737819624,770.7946189329084,No
+299A-B,Male,1,No,No,4,Yes,Yes,DSL,No,No,No internet service,No,Yes,Yes,Month-to-month,No,Mailed check,27.330228447359307,119.34049169846607,Yes
+300A-B,Female,0,No,Yes,4,No,No phone service,DSL,No,No internet service,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),78.24871444030359,315.15817382424535,Yes
+301A-B,Female,1,Yes,Yes,6,No,Yes,Fiber optic,No,Yes,No,Yes,No internet service,Yes,One year,No,Credit card (automatic),107.38753780143871,633.222803331747,No
+302A-B,Female,0,Yes,Yes,19,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),21.460883838701445,421.2923513375958,No
+303A-B,Female,0,Yes,Yes,3,No,Yes,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,96.03477067638383,280.05525020249115,Yes
+304A-B,Female,0,Yes,No,29,No,Yes,No,No internet service,Yes,No internet service,Yes,No internet service,No internet service,Two year,Yes,Mailed check,92.93449954132174,2696.2458271465293,No
+305A-B,Female,0,Yes,Yes,22,Yes,No phone service,DSL,No internet service,Yes,No internet service,Yes,No,No,One year,No,Mailed check,85.30094212301907,1864.3074700881477,No
+306A-B,Female,1,Yes,Yes,7,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),44.1234192549215,304.7262111672707,Yes
+307A-B,Female,1,Yes,No,53,No,No,DSL,No,No internet service,No internet service,Yes,No internet service,No,Two year,Yes,Credit card (automatic),60.74116775498958,3235.1377824154292,No
+308A-B,Female,0,No,Yes,44,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,No,No internet service,Two year,Yes,Electronic check,99.71849792144589,4379.502093600039,Yes
+309A-B,Female,0,No,No,42,Yes,No,DSL,No internet service,No,Yes,No internet service,Yes,No,One year,No,Electronic check,20.29502296711621,856.9392818836632,No
+310A-B,Male,0,Yes,No,7,Yes,Yes,No,No,Yes,No internet service,Yes,No internet service,No,Month-to-month,No,Mailed check,33.15310253302451,230.4924963056978,Yes
+311A-B,Male,0,No,Yes,37,No,No phone service,No,No internet service,Yes,No internet service,No internet service,No internet service,No,Two year,No,Mailed check,24.952985883902016,922.9225295203989,No
+312A-B,Female,0,No,No,31,No,No,No,No internet service,No,Yes,No,No,No,Two year,Yes,Electronic check,95.30932299761224,2955.7214383798155,No
+313A-B,Male,0,Yes,Yes,1,Yes,No,No,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),70.10376546576667,82.81497438669803,Yes
+314A-B,Female,0,No,Yes,7,No,No,No,Yes,No internet service,No,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),55.19107088841312,388.6721879805529,Yes
+315A-B,Male,0,Yes,Yes,2,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,Yes,No,One year,No,Mailed check,109.58431967038318,208.9323674035448,No
+316A-B,Male,0,Yes,Yes,63,No,No,Fiber optic,Yes,Yes,No,No internet service,No internet service,Yes,Two year,No,Bank transfer (automatic),95.18914323080757,5999.738046313721,No
+317A-B,Female,1,Yes,No,13,Yes,Yes,No,Yes,No internet service,No,No internet service,No,Yes,One year,Yes,Credit card (automatic),101.13811790906067,1300.3289724194465,No
+318A-B,Female,0,Yes,Yes,42,No,No phone service,Fiber optic,Yes,No,No,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),21.95138993310618,943.4310474635059,No
+319A-B,Female,0,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,No,No internet service,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),90.40685149360222,5498.457030865692,No
+320A-B,Male,0,Yes,Yes,4,Yes,No,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,71.38646400056086,292.38902083026886,Yes
+321A-B,Male,0,No,No,3,No,No phone service,No,No internet service,No,No internet service,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),48.12819811224922,135.87989738156253,Yes
+322A-B,Male,0,Yes,No,45,No,No phone service,No,Yes,No internet service,No internet service,Yes,No internet service,Yes,Two year,No,Bank transfer (automatic),58.32614932850131,2638.3815960776888,No
+323A-B,Male,1,No,Yes,45,Yes,No phone service,No,No internet service,Yes,Yes,No internet service,Yes,Yes,Two year,No,Electronic check,46.35389220560763,2076.114331136649,No
+324A-B,Male,0,No,No,7,Yes,No phone service,No,No internet service,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,52.685452152178364,377.1886988883739,No
+325A-B,Male,0,Yes,No,12,Yes,No phone service,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),91.7417605603347,1097.7277960980855,No
+326A-B,Female,0,Yes,No,37,No,No,No,Yes,No internet service,Yes,No internet service,No internet service,Yes,Two year,No,Mailed check,57.00207115267866,2096.8474448690677,No
+327A-B,Female,0,No,No,29,Yes,No,No,Yes,No,No internet service,No,Yes,No,One year,Yes,Credit card (automatic),107.67690864880136,3129.042632815758,No
+328A-B,Male,0,Yes,No,60,Yes,Yes,No,No internet service,No internet service,No internet service,No,No,No,Two year,No,Electronic check,23.536966756160503,1417.0806407525254,No
+329A-B,Female,0,Yes,No,46,Yes,Yes,No,No,No,No internet service,No internet service,Yes,No internet service,Two year,Yes,Mailed check,48.243906893271316,2205.48656732729,No
+330A-B,Female,1,No,No,4,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,32.66110347908346,139.42110742652727,Yes
+331A-B,Female,0,No,No,20,Yes,No phone service,Fiber optic,No,No,No internet service,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),42.28577124425094,840.2520811632281,Yes
+332A-B,Female,0,No,No,51,No,No,Fiber optic,No,No,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,83.54341788052271,4258.253860514002,Yes
+333A-B,Male,0,No,No,30,No,Yes,DSL,Yes,No,No,No internet service,Yes,Yes,Two year,Yes,Electronic check,62.28577750106182,1861.031522959959,No
+334A-B,Female,0,Yes,Yes,30,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No,No internet service,No,Two year,Yes,Mailed check,41.55224012267675,1246.3920682304367,No
+335A-B,Male,1,No,Yes,1,No,No phone service,DSL,Yes,No internet service,Yes,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,86.1063590474485,67.72595089744989,Yes
+336A-B,Female,1,No,No,19,Yes,No,Fiber optic,No internet service,No internet service,No,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),30.966335024621316,612.0175317484425,Yes
+337A-B,Male,1,No,Yes,1,Yes,Yes,Fiber optic,No,No internet service,No,Yes,No,No,One year,Yes,Credit card (automatic),97.84661803798777,98.67316116180079,Yes
+338A-B,Male,0,No,No,32,No,Yes,No,Yes,Yes,Yes,No internet service,No internet service,Yes,One year,Yes,Credit card (automatic),103.07489785626535,3294.8840260890197,No
+339A-B,Female,0,Yes,Yes,7,Yes,No,No,No,No internet service,No,No,No,No internet service,Month-to-month,No,Mailed check,96.80946502544222,675.8538414450794,Yes
+340A-B,Female,1,No,No,8,Yes,No phone service,No,No,No,No internet service,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),19.88291202838657,162.8394113195901,Yes
+341A-B,Male,1,Yes,Yes,60,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),27.324172357434886,1635.6054737491052,No
+342A-B,Male,0,Yes,Yes,9,No,No,DSL,No internet service,Yes,Yes,No,No internet service,No,One year,No,Credit card (automatic),54.26263011133114,494.49866009443105,No
+343A-B,Female,1,Yes,No,26,Yes,No phone service,DSL,No internet service,No,Yes,No internet service,No internet service,No,Two year,Yes,Bank transfer (automatic),81.5699838970267,2137.842813110269,No
+344A-B,Female,0,Yes,Yes,4,Yes,Yes,No,No internet service,Yes,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),24.051865263798838,118.18920608595842,Yes
+345A-B,Female,0,Yes,Yes,7,No,Yes,Fiber optic,No,No,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),113.29995078663389,781.1501102801802,Yes
+346A-B,Male,0,Yes,No,8,Yes,No,Fiber optic,No,No,No internet service,No internet service,No,No,Month-to-month,No,Electronic check,43.25263247371939,366.4975443801685,Yes
+347A-B,Female,0,No,No,37,Yes,Yes,No,No,No,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),30.480653085057057,1130.2473118252171,No
+348A-B,Male,0,No,Yes,8,No,No,No,No internet service,Yes,No,Yes,Yes,No internet service,Month-to-month,No,Mailed check,87.32413340652867,689.9062259530855,Yes
+349A-B,Male,0,No,Yes,19,Yes,No phone service,Fiber optic,Yes,No internet service,No,No internet service,Yes,No,Month-to-month,No,Electronic check,20.184322334753407,389.6156062662581,Yes
+350A-B,Male,0,Yes,No,59,Yes,No phone service,No,Yes,Yes,No internet service,Yes,No internet service,No internet service,One year,Yes,Credit card (automatic),43.1390261331486,2541.3672354749606,No
+351A-B,Male,0,Yes,No,2,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,24.921894637260387,50.48469772284305,Yes
+352A-B,Female,0,Yes,No,19,Yes,Yes,No,No,Yes,No,No,No internet service,No,One year,No,Electronic check,102.00798220080068,1936.1698728189244,No
+353A-B,Female,0,No,No,69,No,No phone service,DSL,No,No internet service,No internet service,Yes,Yes,No internet service,One year,No,Electronic check,109.2538021822402,7539.485502259624,No
+354A-B,Male,0,Yes,No,4,No,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),107.83130757730363,445.56911119555195,Yes
+355A-B,Male,0,No,Yes,45,Yes,No phone service,DSL,No,Yes,Yes,Yes,No internet service,No,One year,No,Credit card (automatic),80.01891188200162,3588.829619743633,No
+356A-B,Male,0,No,No,14,Yes,No,Fiber optic,No,Yes,No internet service,No,Yes,Yes,Month-to-month,Yes,Mailed check,58.54210514284863,804.8706673495473,Yes
+357A-B,Male,0,No,No,8,Yes,No phone service,DSL,No,Yes,No,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),60.5990746438938,490.6321554479823,No
+358A-B,Female,0,No,No,57,No,No,No,No,No internet service,No,Yes,No,No internet service,Two year,No,Credit card (automatic),75.26193281069004,4282.243080645676,No
+359A-B,Male,0,No,Yes,46,Yes,No,Fiber optic,Yes,Yes,No internet service,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),112.6437928507183,5177.851805647411,No
+360A-B,Female,0,Yes,Yes,71,Yes,Yes,No,Yes,No internet service,No,No,Yes,No internet service,Two year,No,Electronic check,96.82127950274918,6880.09236164437,No
+361A-B,Male,1,No,No,6,Yes,No phone service,No,No,No internet service,No,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),27.940280533761708,156.6365852138529,Yes
+362A-B,Female,0,Yes,Yes,16,Yes,Yes,DSL,No internet service,No,Yes,No internet service,No internet service,No internet service,One year,No,Mailed check,66.33826061290945,1061.5015329743032,No
+363A-B,Male,1,No,Yes,59,No,No,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,89.39798019214854,5276.960919800815,No
+364A-B,Male,0,Yes,Yes,57,Yes,No,DSL,Yes,Yes,No,Yes,No internet service,No internet service,One year,Yes,Bank transfer (automatic),110.22511517933916,6272.881892220983,No
+365A-B,Female,0,Yes,Yes,38,No,No,No,No,No,No internet service,No,Yes,No,Two year,No,Bank transfer (automatic),115.24566337727613,4380.337712636359,No
+366A-B,Male,0,Yes,No,54,No,Yes,Fiber optic,No,Yes,Yes,No internet service,No internet service,No,One year,Yes,Bank transfer (automatic),67.38114928201242,3638.0675099674304,No
+367A-B,Male,0,Yes,Yes,1,No,No phone service,DSL,No,No internet service,Yes,No,No,Yes,Month-to-month,No,Mailed check,81.1490960973197,100.5032650511581,Yes
+368A-B,Male,0,No,Yes,2,No,No,No,No,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),55.41202034401221,106.98773276677082,Yes
+369A-B,Male,0,Yes,No,5,No,No phone service,Fiber optic,No internet service,Yes,No,No,No,No internet service,One year,Yes,Bank transfer (automatic),111.28796105991276,553.5887127746962,No
+370A-B,Male,1,Yes,Yes,10,Yes,Yes,No,No,No,No,No,No internet service,No,Month-to-month,No,Credit card (automatic),87.00296646949067,881.2766106169146,No
+371A-B,Female,0,No,Yes,58,No,No,DSL,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),70.69990719208397,4104.344446071212,No
+372A-B,Male,0,Yes,Yes,5,Yes,No phone service,No,No,No internet service,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),89.53644868443968,440.0336423844492,Yes
+373A-B,Male,0,Yes,No,66,No,No phone service,No,No internet service,No internet service,No,Yes,No,No internet service,One year,No,Electronic check,108.94968290498198,7206.471142105123,No
+374A-B,Male,0,Yes,No,27,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No,No,No,One year,Yes,Electronic check,35.74042399221199,969.2242884005656,No
+375A-B,Female,0,Yes,No,2,No,Yes,DSL,No,No,Yes,No internet service,No,No,Month-to-month,Yes,Mailed check,45.48559846596335,87.20182819695597,Yes
+376A-B,Female,0,No,No,21,Yes,Yes,No,Yes,Yes,No,No internet service,No internet service,No internet service,Two year,No,Mailed check,53.24138268142954,1116.5036983801162,No
+377A-B,Male,0,No,No,68,No,No,No,No,No,No internet service,No internet service,Yes,No,Two year,Yes,Credit card (automatic),73.68948559972696,5008.275669019456,No
+378A-B,Female,0,Yes,No,60,Yes,No phone service,DSL,No internet service,No internet service,No internet service,Yes,No,No,Two year,No,Electronic check,81.58031993044798,4894.6867250188525,No
+379A-B,Male,0,Yes,No,8,Yes,No,Fiber optic,Yes,No internet service,No,No internet service,No,No,Month-to-month,Yes,Electronic check,20.452896418825695,171.59762184521875,Yes
+380A-B,Female,0,No,Yes,30,Yes,No,Fiber optic,No,No,Yes,Yes,No internet service,Yes,Two year,No,Credit card (automatic),28.670072111168906,837.2373253784066,No
+381A-B,Female,0,Yes,No,10,No,No phone service,Fiber optic,No,No internet service,No,No internet service,Yes,No,One year,No,Mailed check,35.599594776331244,352.79829116963526,No
+382A-B,Male,0,Yes,No,1,No,Yes,DSL,No internet service,No,No internet service,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),81.50892907605399,74.10438273775459,Yes
+383A-B,Male,0,Yes,Yes,1,Yes,No phone service,No,Yes,No,No,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),93.3486067807529,92.00201333914798,Yes
+384A-B,Female,0,No,Yes,7,No,Yes,No,Yes,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,50.320111896216844,355.9387693679472,Yes
+385A-B,Female,0,Yes,No,6,Yes,No,No,No internet service,No internet service,No,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),53.70100066924129,339.18362539924266,Yes
+386A-B,Male,1,Yes,No,22,Yes,Yes,DSL,Yes,No internet service,Yes,No internet service,No,No,Month-to-month,Yes,Mailed check,113.47205767049586,2501.017865727703,Yes
+387A-B,Male,0,No,Yes,39,Yes,Yes,No,No internet service,Yes,No,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),80.8501074376685,3151.1728796238817,No
+388A-B,Female,0,Yes,Yes,4,Yes,No phone service,No,Yes,No,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),105.49588138801012,431.0632246515788,Yes
+389A-B,Female,0,No,No,5,No,No,Fiber optic,Yes,No,No,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),84.29690707819,435.6103214423943,Yes
+390A-B,Male,0,No,No,52,Yes,Yes,No,Yes,No,No internet service,No,No,Yes,Two year,No,Bank transfer (automatic),56.85238530128402,2966.0856265877655,No
+391A-B,Female,1,Yes,Yes,61,No,Yes,Fiber optic,No,Yes,No internet service,No internet service,No,Yes,One year,No,Electronic check,95.51751979280981,5814.843510990514,No
+392A-B,Female,1,Yes,Yes,38,No,No phone service,No,No internet service,No,No internet service,No internet service,No,Yes,One year,Yes,Electronic check,30.303950530045405,1157.9105932222444,No
+393A-B,Female,0,No,No,64,Yes,Yes,No,No,No internet service,No,No,Yes,Yes,Two year,No,Credit card (automatic),98.65240064178862,6313.9521109409325,No
+394A-B,Female,1,No,Yes,39,Yes,No,DSL,Yes,No,No internet service,Yes,No internet service,No,Month-to-month,Yes,Electronic check,85.92300134975538,3360.745051201004,Yes
+395A-B,Female,0,No,No,2,No,No,DSL,No,No internet service,No internet service,No internet service,No,No,Month-to-month,No,Mailed check,64.6953168406337,133.77626649131741,Yes
+396A-B,Male,0,Yes,Yes,58,Yes,No,DSL,No,No,Yes,No internet service,No,No,Two year,No,Mailed check,62.44985732740298,3615.74261423097,No
+397A-B,Female,0,Yes,No,11,No,No,No,Yes,No internet service,Yes,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),63.53369995239829,704.2787248740509,Yes
+398A-B,Female,0,Yes,Yes,3,No,Yes,Fiber optic,No,No,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,89.16600285837127,271.5793321927202,Yes
+399A-B,Female,0,Yes,No,51,Yes,No,Fiber optic,No internet service,No,No,No internet service,No,Yes,Two year,Yes,Electronic check,47.60592977932285,2429.6626413444396,No
+400A-B,Female,0,No,Yes,6,Yes,No phone service,DSL,No,Yes,Yes,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),111.6972726466516,679.9735000638357,No
+401A-B,Male,0,No,Yes,2,No,Yes,No,No internet service,No,No internet service,No internet service,Yes,No,Month-to-month,No,Electronic check,95.56799002044824,186.15294642999467,Yes
+402A-B,Male,1,Yes,No,42,No,No phone service,DSL,No,No,Yes,No,Yes,No,One year,No,Bank transfer (automatic),20.161500384025526,842.8230985890832,No
+403A-B,Male,0,Yes,Yes,55,No,No,DSL,No internet service,No internet service,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),51.40354102917841,2822.8376513419003,No
+404A-B,Male,0,Yes,No,44,Yes,No,No,No internet service,No,No,No internet service,No internet service,Yes,Two year,No,Electronic check,104.99249376135597,4622.635755454411,No
+405A-B,Male,0,No,Yes,5,Yes,No,Fiber optic,No internet service,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,110.62953483458384,537.0730338164855,Yes
+406A-B,Female,0,Yes,No,71,No,Yes,No,No internet service,No,No internet service,No,Yes,No,Two year,No,Bank transfer (automatic),94.80548555802658,6746.751444075937,No
+407A-B,Male,0,Yes,Yes,22,Yes,Yes,No,No,No,No internet service,Yes,Yes,No internet service,Two year,Yes,Electronic check,38.08610984429642,833.3871645357164,No
+408A-B,Female,0,No,Yes,11,Yes,No,No,No internet service,No internet service,Yes,No,No,No,Month-to-month,No,Credit card (automatic),19.282414931211836,205.4285017698939,Yes
+409A-B,Male,0,Yes,No,44,No,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,91.4299916926616,4023.931413888285,No
+410A-B,Female,1,No,No,3,No,No,DSL,Yes,Yes,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,108.71525722830236,320.4697384793967,Yes
+411A-B,Female,0,Yes,No,1,Yes,No phone service,DSL,Yes,No internet service,No,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,26.764488647311488,25.73920180388876,Yes
+412A-B,Male,0,Yes,No,2,No,No,No,No internet service,No,No internet service,No,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),71.0009585809762,165.29192554458677,Yes
+413A-B,Female,0,Yes,No,11,Yes,No phone service,Fiber optic,Yes,No,No internet service,Yes,Yes,No,Month-to-month,No,Credit card (automatic),73.05014019984355,810.443335700062,Yes
+414A-B,Female,0,Yes,Yes,41,Yes,No phone service,DSL,No,No,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,48.992391937511925,2009.3191940358822,No
+415A-B,Female,0,Yes,Yes,11,No,No,Fiber optic,Yes,No internet service,No,No,No internet service,No,Month-to-month,Yes,Electronic check,40.379881209646584,457.6714964551591,Yes
+416A-B,Female,0,No,No,14,Yes,No phone service,DSL,No internet service,Yes,No internet service,No internet service,No,No,Month-to-month,Yes,Mailed check,109.5075147755905,1525.4081850507764,No
+417A-B,Male,0,Yes,Yes,67,Yes,Yes,No,No internet service,Yes,No,No internet service,No internet service,No,Month-to-month,Yes,Credit card (automatic),86.84522158898328,5830.415965204351,No
+418A-B,Female,1,Yes,Yes,58,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,No,Credit card (automatic),59.69750928843317,3467.260916517057,No
+419A-B,Male,0,Yes,No,70,Yes,Yes,No,No,No internet service,No internet service,No internet service,No,No internet service,One year,Yes,Bank transfer (automatic),33.88598819896329,2373.241047776687,No
+420A-B,Male,1,Yes,Yes,62,Yes,No phone service,DSL,No,No,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),24.875738109018627,1549.48012181305,No
+421A-B,Female,0,No,No,9,No,No,Fiber optic,No internet service,Yes,No,No,Yes,No internet service,Month-to-month,Yes,Electronic check,52.98748302515139,468.81487884190824,Yes
+422A-B,Female,0,Yes,No,1,No,Yes,Fiber optic,No,No internet service,No internet service,Yes,Yes,No,Month-to-month,No,Credit card (automatic),52.26753737040461,57.55754908147141,Yes
+423A-B,Male,0,Yes,Yes,40,Yes,No,Fiber optic,No internet service,No,No,No,Yes,No internet service,Two year,No,Bank transfer (automatic),95.35894955786206,3811.915754883527,No
+424A-B,Female,1,Yes,No,43,Yes,No,DSL,No internet service,Yes,No internet service,No,Yes,No internet service,One year,No,Mailed check,104.0445518166793,4479.435308403918,No
+425A-B,Female,0,No,No,19,No,No phone service,No,Yes,Yes,No,No internet service,Yes,No,One year,No,Mailed check,37.47349847777286,690.5721333566315,No
+426A-B,Female,1,Yes,No,8,No,Yes,No,No,Yes,Yes,Yes,No internet service,Yes,One year,Yes,Mailed check,44.81151528003956,349.01032153933613,No
+427A-B,Male,0,No,Yes,6,Yes,Yes,Fiber optic,No,No,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,66.95795086522276,409.98916499005213,Yes
+428A-B,Female,1,No,No,58,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),46.70442993523377,2706.6274557710162,No
+429A-B,Female,0,Yes,No,29,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No internet service,No,Yes,Two year,No,Mailed check,42.51400325775397,1229.4572042684983,No
+430A-B,Male,0,No,Yes,27,No,Yes,DSL,No internet service,No internet service,Yes,No internet service,No,Yes,Two year,Yes,Bank transfer (automatic),96.63747550430736,2609.4319482850233,No
+431A-B,Female,0,Yes,Yes,52,No,No phone service,No,Yes,No,No internet service,No internet service,Yes,No internet service,Two year,Yes,Credit card (automatic),93.35200265657981,4852.897926960151,Yes
+432A-B,Male,0,No,Yes,7,No,No,Fiber optic,No internet service,Yes,No internet service,No internet service,No,No,One year,No,Bank transfer (automatic),100.54556884030816,697.3969427971566,No
+433A-B,Male,0,No,No,10,No,No phone service,No,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,37.61991627250924,372.3552944756109,Yes
+434A-B,Female,0,No,Yes,10,No,Yes,DSL,Yes,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,No,Mailed check,106.51895569165822,1069.9407187127194,No
+435A-B,Female,0,No,No,57,Yes,Yes,Fiber optic,No,Yes,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,102.30623482195173,5837.5187719347,No
+436A-B,Female,0,Yes,Yes,24,No,No phone service,DSL,No internet service,No internet service,No,Yes,No internet service,No,Two year,Yes,Mailed check,36.17097376534317,862.4611249277458,No
+437A-B,Female,0,No,No,2,No,Yes,Fiber optic,Yes,No internet service,No internet service,No,No,No internet service,Month-to-month,Yes,Mailed check,22.433365842822134,49.19250972248959,Yes
+438A-B,Female,0,No,Yes,8,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,Yes,Yes,Month-to-month,No,Electronic check,105.03810404348448,846.2770925509788,Yes
+439A-B,Female,0,Yes,Yes,59,Yes,No phone service,DSL,No internet service,No,Yes,No internet service,No internet service,No,Two year,Yes,Electronic check,71.9693180697739,4236.02050131299,No
+440A-B,Female,0,Yes,No,1,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),88.83537252368365,101.20900391745846,Yes
+441A-B,Female,1,Yes,No,24,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No,No,No,Two year,No,Credit card (automatic),59.865306445552235,1429.9623249760973,No
+442A-B,Female,1,No,No,1,Yes,No phone service,DSL,No internet service,No internet service,No,No,No,No,Month-to-month,Yes,Credit card (automatic),56.042792869954425,57.59459560403637,Yes
+443A-B,Male,1,No,Yes,9,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,50.31816138019514,461.73774826148724,Yes
+444A-B,Male,0,No,No,8,No,No phone service,No,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,53.333816636016095,425.9672706203237,Yes
+445A-B,Female,0,Yes,Yes,64,No,No,No,No,No,No internet service,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),111.28803030790428,7101.528342357432,No
+446A-B,Male,0,Yes,Yes,16,No,No,No,No,No internet service,Yes,No internet service,Yes,No,One year,No,Mailed check,42.405006551806984,671.508359001627,No
+447A-B,Male,0,No,No,46,Yes,No,No,Yes,Yes,No internet service,No,Yes,No internet service,Two year,No,Credit card (automatic),22.40730399098618,1026.5731250284114,No
+448A-B,Male,1,Yes,No,69,Yes,Yes,No,Yes,Yes,No,No,Yes,No internet service,Two year,No,Mailed check,84.50223148122872,5818.6741123323345,No
+449A-B,Female,0,No,Yes,40,Yes,Yes,DSL,No internet service,No,No,No,No,No,Two year,No,Electronic check,72.59991244495654,2901.4629480719805,No
+450A-B,Male,0,Yes,Yes,2,No,No phone service,Fiber optic,No internet service,No,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),58.24061572969888,109.96527830595313,Yes
+451A-B,Female,1,Yes,Yes,52,Yes,Yes,No,No internet service,Yes,Yes,No internet service,Yes,No,Two year,No,Electronic check,24.33474521941914,1264.7778656587623,No
+452A-B,Female,1,No,No,33,No,Yes,DSL,No internet service,No,Yes,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),56.54618686507444,1873.0320418616445,No
+453A-B,Male,1,Yes,Yes,39,No,Yes,DSL,No,No internet service,No,No,No internet service,No,Two year,Yes,Mailed check,35.29045414599629,1379.2723459493598,No
+454A-B,Female,0,No,No,5,Yes,No phone service,DSL,No,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,No,Electronic check,22.07895598127167,119.67796789229152,Yes
+455A-B,Male,0,No,Yes,16,Yes,Yes,DSL,Yes,No,Yes,No internet service,Yes,Yes,Month-to-month,No,Electronic check,56.26049916726662,887.6420844250989,No
+456A-B,Female,0,No,No,63,No,No phone service,DSL,No internet service,No internet service,No,No,No internet service,Yes,Two year,Yes,Electronic check,92.80106465088888,5841.665942118673,No
+457A-B,Male,0,No,Yes,7,Yes,Yes,DSL,Yes,No internet service,Yes,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),37.928722526952654,261.3719035020947,Yes
+458A-B,Female,0,No,No,17,Yes,Yes,DSL,No,No,No,No,No internet service,Yes,Month-to-month,No,Electronic check,27.516284961332143,462.6108347597492,Yes
+459A-B,Female,0,Yes,No,61,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,No,No,One year,No,Credit card (automatic),68.12038418526885,4155.345955328253,No
+460A-B,Female,1,Yes,No,35,Yes,No phone service,DSL,No internet service,No,Yes,Yes,Yes,No,One year,Yes,Mailed check,51.4421794175508,1794.465497422516,No
+461A-B,Female,1,No,No,6,No,Yes,DSL,Yes,Yes,Yes,No internet service,Yes,No,One year,No,Electronic check,105.86776655991125,642.7340995029605,No
+462A-B,Male,0,Yes,No,32,No,No phone service,No,No,Yes,Yes,No internet service,Yes,No,Month-to-month,Yes,Electronic check,89.63441868060532,2876.3949651710836,No
+463A-B,Female,1,Yes,No,9,Yes,Yes,DSL,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,68.91285668544737,627.6271387469544,Yes
+464A-B,Female,0,Yes,No,49,No,No,Fiber optic,Yes,No,Yes,No internet service,No,Yes,Two year,Yes,Bank transfer (automatic),22.63427502917326,1110.2116907242118,No
+465A-B,Male,0,No,Yes,65,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No internet service,Two year,Yes,Credit card (automatic),58.95852776335889,3837.257353756174,No
+466A-B,Male,0,No,No,10,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,104.12645604457967,1041.98946096208,Yes
+467A-B,Female,0,Yes,Yes,59,No,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No,No,One year,Yes,Mailed check,35.28654851472834,2087.5104810365024,No
+468A-B,Male,0,No,Yes,17,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,113.24183338299945,1887.2019922867978,Yes
+469A-B,Female,0,No,No,3,No,No,No,Yes,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,83.01706676116713,249.46603636544992,Yes
+470A-B,Female,0,No,Yes,19,No,No phone service,No,No internet service,Yes,No,No,No internet service,No,Month-to-month,No,Mailed check,90.90071943440257,1738.1639704842853,No
+471A-B,Female,0,No,No,11,Yes,Yes,No,Yes,No,Yes,No,No,No internet service,Month-to-month,No,Mailed check,77.10274694033545,837.6296868114082,Yes
+472A-B,Female,1,No,No,9,Yes,Yes,No,No,Yes,No,No,Yes,No internet service,Month-to-month,Yes,Mailed check,29.89599276463529,250.74408057142915,No
+473A-B,Female,1,Yes,No,8,Yes,No,Fiber optic,Yes,Yes,Yes,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),82.90030731895976,663.0533677872121,Yes
+474A-B,Male,0,No,Yes,36,No,No phone service,No,No,No,No,No internet service,Yes,Yes,Two year,Yes,Mailed check,23.542639569558116,862.5781649962904,No
+475A-B,Female,1,No,Yes,1,Yes,No phone service,Fiber optic,No,Yes,No,No,Yes,No internet service,Month-to-month,No,Mailed check,79.91139988792261,85.1825235457654,Yes
+476A-B,Male,0,No,No,54,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),116.02511642122643,6269.482905870387,No
+477A-B,Female,1,Yes,No,33,Yes,No phone service,No,No,No,Yes,No,Yes,No,One year,No,Mailed check,105.79541399022709,3494.7286830809,No
+478A-B,Female,1,No,No,35,No,No,Fiber optic,Yes,No,Yes,Yes,Yes,No internet service,Two year,Yes,Mailed check,39.16132135319586,1381.534995669421,No
+479A-B,Female,0,No,Yes,52,No,No,No,No,Yes,Yes,Yes,No,No internet service,Two year,Yes,Bank transfer (automatic),66.83197129828469,3474.3586418614686,No
+480A-B,Male,0,Yes,No,19,Yes,Yes,Fiber optic,No,Yes,No,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),61.02727552466829,1162.3771631674017,No
+481A-B,Male,0,No,Yes,10,Yes,No phone service,Fiber optic,No,No,Yes,Yes,No internet service,Yes,Month-to-month,No,Electronic check,68.62094564438378,671.8503369253835,Yes
+482A-B,Male,1,No,Yes,23,No,Yes,No,No,Yes,No,Yes,No internet service,No,Two year,Yes,Bank transfer (automatic),92.66006692078041,2132.4740649249384,No
+483A-B,Male,0,Yes,Yes,27,No,No,DSL,No internet service,No,Yes,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),30.997002934403326,832.2429813049425,No
+484A-B,Female,0,No,No,1,No,No phone service,Fiber optic,No,No internet service,No internet service,No,Yes,No internet service,One year,No,Mailed check,45.39342241531379,34.323434922812325,No
+485A-B,Male,1,Yes,Yes,47,Yes,No,No,No,Yes,Yes,No,Yes,No,Two year,Yes,Electronic check,70.11447387567728,3307.050863096923,No
+486A-B,Female,1,No,No,39,Yes,Yes,Fiber optic,Yes,No,No,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),73.34674605240053,2858.974113833903,No
+487A-B,Male,0,Yes,Yes,52,Yes,No phone service,Fiber optic,Yes,No internet service,No,No,Yes,Yes,One year,No,Bank transfer (automatic),118.49031863209612,6167.267421576404,No
+488A-B,Female,0,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),41.52438909240809,170.05764365577303,Yes
+489A-B,Female,0,Yes,Yes,66,Yes,No phone service,DSL,No internet service,No,No internet service,No,Yes,No,Two year,No,Electronic check,114.92984506433423,7599.179611178376,No
+490A-B,Female,0,No,Yes,2,Yes,Yes,Fiber optic,No,No internet service,Yes,No internet service,No,Yes,One year,Yes,Bank transfer (automatic),53.69602487677547,100.2709458085709,Yes
+491A-B,Female,0,Yes,Yes,68,Yes,No phone service,DSL,No,No,No,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),105.07106716993539,7135.134020955335,No
+492A-B,Male,0,Yes,No,11,Yes,No,Fiber optic,No,No,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),42.97447000247584,466.3751490473825,Yes
+493A-B,Male,0,No,No,60,Yes,No phone service,DSL,Yes,No internet service,Yes,No internet service,Yes,Yes,Two year,No,Electronic check,103.78263695569092,6233.705337050043,No
+494A-B,Male,1,Yes,No,64,No,No,Fiber optic,Yes,Yes,No,No internet service,No,Yes,Two year,No,Credit card (automatic),32.19847136998224,2063.176418968102,No
+495A-B,Female,0,No,No,5,No,Yes,No,No,No internet service,No internet service,No,No,No internet service,Month-to-month,No,Electronic check,31.640763794804528,179.01618623468522,Yes
+496A-B,Female,1,Yes,Yes,29,No,Yes,No,No internet service,No,Yes,No,No,No,One year,Yes,Mailed check,59.756757210487116,1737.3715361476975,No
+497A-B,Male,0,Yes,Yes,35,No,No,No,No internet service,Yes,No internet service,Yes,No,Yes,Two year,Yes,Credit card (automatic),47.88658342010292,1679.9087945367876,No
+498A-B,Male,1,Yes,Yes,3,No,No,DSL,No internet service,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),53.03815960412167,154.91330366805985,Yes
+499A-B,Male,1,No,No,6,Yes,No,DSL,No internet service,Yes,No internet service,Yes,Yes,No internet service,Month-to-month,No,Electronic check,47.72974283138245,299.6285387298914,Yes
+500A-B,Male,1,Yes,No,38,Yes,No phone service,No,Yes,No,Yes,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),66.82099765590408,2532.8620501728365,No
+501A-B,Male,1,No,No,14,No,No,DSL,Yes,Yes,No,No,No internet service,No,One year,No,Electronic check,87.5150391982195,1226.6721133336573,Yes
+502A-B,Male,0,Yes,No,39,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No,Yes,Yes,Month-to-month,No,Mailed check,64.84259375828597,2535.0191297940537,Yes
+503A-B,Male,0,Yes,No,1,No,No,Fiber optic,No internet service,Yes,Yes,No,Yes,No internet service,Month-to-month,No,Mailed check,35.81212175423744,15.652330339552623,Yes
+504A-B,Male,0,No,Yes,25,No,No,No,No,Yes,No,Yes,Yes,No,Two year,No,Mailed check,79.69345101492695,1986.0567025531582,No
+505A-B,Female,0,No,No,68,No,No,DSL,No,No,No internet service,No,No internet service,No internet service,Two year,No,Credit card (automatic),117.21606142107079,7952.2841960135875,No
+506A-B,Male,0,Yes,No,10,Yes,Yes,No,No,Yes,Yes,No internet service,Yes,No,Month-to-month,Yes,Credit card (automatic),102.58714277997089,1028.5812769714576,Yes
+507A-B,Female,0,No,No,24,No,Yes,DSL,No,Yes,Yes,No,No,No internet service,Two year,Yes,Bank transfer (automatic),99.61233726841957,2377.4976592972844,No
+508A-B,Male,0,No,No,11,Yes,Yes,No,No internet service,No internet service,Yes,Yes,No,No,One year,No,Bank transfer (automatic),41.128717908879175,465.8755722481407,No
+509A-B,Female,0,Yes,No,4,Yes,Yes,Fiber optic,Yes,No internet service,No,Yes,Yes,No internet service,Month-to-month,No,Electronic check,26.704943897367773,90.85878674716595,Yes
+510A-B,Female,1,No,No,67,No,Yes,No,Yes,No internet service,No internet service,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),56.45314038786678,3781.7621964031136,No
+511A-B,Female,0,Yes,No,6,No,Yes,DSL,No internet service,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100.10244852243952,597.5260877659956,No
+512A-B,Male,0,Yes,No,5,Yes,No,DSL,No,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,101.00463953523823,499.67307598833935,Yes
+513A-B,Female,0,No,No,54,No,Yes,No,No,No,No,Yes,No internet service,Yes,Two year,Yes,Mailed check,48.410810999352805,2617.376913650198,No
+514A-B,Female,0,No,Yes,3,Yes,No phone service,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,39.22103756825421,127.20020133787682,Yes
+515A-B,Female,0,Yes,No,8,No,Yes,No,No internet service,No internet service,Yes,No internet service,No,No,Month-to-month,Yes,Electronic check,77.65549131467661,620.7385812434547,Yes
+516A-B,Female,0,No,Yes,70,No,No phone service,Fiber optic,No,Yes,No,No internet service,No,No internet service,Two year,Yes,Bank transfer (automatic),74.04891330336343,5190.730039398672,No
+517A-B,Female,0,Yes,No,71,No,No,DSL,No,Yes,No,Yes,No internet service,No internet service,One year,No,Mailed check,55.9886339874855,3966.2639738231965,No
+518A-B,Male,0,No,Yes,69,Yes,Yes,DSL,No internet service,No,No,No internet service,No internet service,No,Two year,No,Electronic check,21.099509855162943,1445.209524078313,No
+519A-B,Male,0,Yes,Yes,36,No,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Mailed check,107.1048534186249,3840.4043922040655,No
+520A-B,Male,0,No,Yes,4,No,Yes,No,No internet service,No,No,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),112.27337732676641,462.13404280724376,Yes
+521A-B,Female,0,No,No,52,No,Yes,DSL,No,No internet service,No internet service,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),27.60011414834514,1454.433224984181,No
+522A-B,Female,0,No,No,10,No,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),36.70549452886215,372.1386290908835,Yes
+523A-B,Female,0,No,No,1,Yes,Yes,DSL,No internet service,No internet service,No,No,No,Yes,Month-to-month,No,Mailed check,112.3606892330773,105.32386781363694,Yes
+524A-B,Male,0,No,Yes,1,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),68.51522250782045,90.05314274765188,Yes
+525A-B,Male,0,No,Yes,25,No,No phone service,No,No internet service,Yes,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,30.181324284655865,756.8158378469221,No
+526A-B,Male,0,Yes,Yes,69,Yes,No phone service,DSL,Yes,Yes,No internet service,Yes,No internet service,No internet service,One year,No,Mailed check,87.5962459405571,6036.5056261509,No
+527A-B,Male,0,Yes,Yes,6,No,No phone service,DSL,Yes,No internet service,No,No,No,Yes,One year,No,Credit card (automatic),103.49879899768587,618.2760338689451,No
+528A-B,Female,1,Yes,No,3,Yes,No phone service,DSL,No,Yes,No,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),93.51672321668983,270.1105181927032,Yes
+529A-B,Male,0,No,No,7,No,No,No,No internet service,No,Yes,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,65.39489219424797,453.291712335403,Yes
+530A-B,Female,0,Yes,No,26,No,No,DSL,Yes,No,No internet service,Yes,No internet service,No,Two year,Yes,Electronic check,34.924966082681365,893.4131749643537,No
+531A-B,Female,1,No,Yes,7,No,Yes,DSL,Yes,No,No internet service,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),32.17664966807013,213.85778410901386,No
+532A-B,Female,0,Yes,Yes,10,No,Yes,DSL,No internet service,No internet service,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,89.95041541237134,906.6344595927752,Yes
+533A-B,Male,0,Yes,Yes,19,Yes,No,DSL,Yes,Yes,No internet service,Yes,Yes,No,One year,Yes,Electronic check,98.09896969449473,1858.7213185334128,No
+534A-B,Male,1,No,Yes,14,Yes,Yes,Fiber optic,Yes,Yes,No,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,90.59589262055583,1278.2689114089637,Yes
+535A-B,Female,0,No,Yes,2,No,No phone service,No,Yes,Yes,No,No,No internet service,No,Month-to-month,No,Mailed check,88.73383399573001,167.7816222080972,Yes
+536A-B,Female,1,Yes,No,2,No,No phone service,No,No,No,No internet service,No,No,No,Month-to-month,Yes,Bank transfer (automatic),91.50622063054573,205.54531975697492,Yes
+537A-B,Male,0,Yes,No,69,Yes,Yes,No,No,No internet service,No,No,Yes,No internet service,Two year,Yes,Mailed check,98.59095750341594,6812.298327526387,No
+538A-B,Female,0,Yes,Yes,47,Yes,No phone service,No,Yes,No,Yes,No,No,Yes,Two year,No,Bank transfer (automatic),40.77315609050888,1893.7225217523546,No
+539A-B,Male,0,Yes,No,42,Yes,No,DSL,Yes,No,No internet service,Yes,No,Yes,Two year,Yes,Mailed check,23.55434894431187,995.0530246168855,No
+540A-B,Female,0,No,No,52,Yes,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),31.31652820418804,1635.3694206630175,No
+541A-B,Female,0,No,No,11,Yes,No,Fiber optic,Yes,No internet service,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),59.92171247090441,666.2754584008525,Yes
+542A-B,Male,0,Yes,Yes,5,Yes,No,DSL,Yes,No,Yes,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,21.33001144769077,102.30513221212789,Yes
+543A-B,Female,0,Yes,No,47,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),58.83392123975311,2770.002077472053,No
+544A-B,Male,0,Yes,Yes,6,Yes,No phone service,No,Yes,No internet service,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),38.53573322777435,224.63283120301332,Yes
+545A-B,Male,0,Yes,No,52,No,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,45.80438459670532,2393.2198046819076,No
+546A-B,Male,0,No,No,63,Yes,No,DSL,No internet service,No,No,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),105.62844369747447,6643.902599928247,No
+547A-B,Female,0,Yes,Yes,6,No,Yes,Fiber optic,No,No,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,61.051022904219515,366.8556096531453,Yes
+548A-B,Male,1,Yes,Yes,42,Yes,No phone service,Fiber optic,Yes,No,No internet service,Yes,No,Yes,One year,No,Mailed check,32.08475091797138,1326.7327357340594,No
+549A-B,Female,0,No,No,4,Yes,Yes,Fiber optic,No internet service,Yes,No,No,Yes,No,One year,No,Electronic check,43.55511741757465,172.98532564469642,Yes
+550A-B,Male,0,Yes,Yes,49,No,Yes,No,No,Yes,No,No internet service,No internet service,No,Two year,No,Credit card (automatic),66.59638787932903,3279.0102912136695,No
+551A-B,Female,0,No,Yes,7,Yes,No,DSL,No internet service,No internet service,No,No,No internet service,No,One year,No,Bank transfer (automatic),116.79031263449168,822.042316975142,No
+552A-B,Male,1,No,Yes,10,Yes,No phone service,No,No internet service,No,No,Yes,Yes,No internet service,One year,No,Mailed check,115.86925029448535,1156.9845844054075,No
+553A-B,Male,0,No,No,27,No,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No internet service,One year,No,Bank transfer (automatic),105.40024222013068,2847.668537902001,No
+554A-B,Female,0,Yes,Yes,34,No,No phone service,No,No,Yes,No internet service,Yes,No internet service,Yes,Two year,No,Bank transfer (automatic),43.61126131243278,1496.699530477094,No
+555A-B,Male,0,Yes,Yes,35,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),95.55430199994807,3352.906953790474,Yes
+556A-B,Female,0,No,Yes,5,No,Yes,Fiber optic,No,No,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Electronic check,90.01364747868806,447.0199765431744,Yes
+557A-B,Male,0,No,No,32,No,No phone service,Fiber optic,No,Yes,Yes,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),92.87285843431053,2972.020015363983,No
+558A-B,Male,0,Yes,No,10,No,No phone service,No,No,Yes,No,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),71.60429490352885,713.3571163828486,Yes
+559A-B,Female,0,No,Yes,10,No,No,Fiber optic,Yes,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),25.568754988927385,256.16182599775493,Yes
+560A-B,Female,0,Yes,Yes,54,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,116.27533157173566,6296.480371275979,No
+561A-B,Male,0,No,Yes,6,No,No,DSL,Yes,No,No,Yes,No,Yes,One year,No,Bank transfer (automatic),118.16344858403166,726.7519971606366,Yes
+562A-B,Male,0,Yes,No,8,No,No,Fiber optic,Yes,No internet service,Yes,No,Yes,No,One year,Yes,Electronic check,90.35372846447235,726.0118670474693,Yes
+563A-B,Female,0,No,Yes,11,Yes,No,No,Yes,Yes,No internet service,No,No,No internet service,Month-to-month,No,Credit card (automatic),20.09472684929341,216.68513136146166,Yes
+564A-B,Female,0,Yes,No,41,No,No phone service,Fiber optic,Yes,No,No internet service,Yes,Yes,No internet service,Two year,No,Bank transfer (automatic),28.403269416330502,1154.2941816988387,No
+565A-B,Female,0,Yes,No,5,No,No phone service,No,Yes,No internet service,No internet service,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),39.1005255544796,206.7651628470469,Yes
+566A-B,Female,0,Yes,No,5,Yes,No phone service,DSL,No,No,No internet service,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),53.93151800816043,257.56945371691603,Yes
+567A-B,Male,0,Yes,No,64,No,No,Fiber optic,No internet service,Yes,Yes,No internet service,No internet service,No,Two year,Yes,Electronic check,41.17501939091052,2650.001959332168,No
+568A-B,Female,1,No,Yes,26,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Two year,No,Mailed check,114.79011219932258,2988.6110552187793,No
+569A-B,Male,0,No,Yes,6,Yes,Yes,DSL,No internet service,No,Yes,No,No internet service,No,One year,Yes,Bank transfer (automatic),52.030759858624386,326.96769273735134,No
+570A-B,Female,0,Yes,No,1,No,No phone service,No,No,Yes,No,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),62.40956861796596,65.98350235670739,Yes
+571A-B,Male,1,Yes,Yes,42,Yes,No phone service,DSL,No,No,No,No internet service,No internet service,No,Two year,No,Credit card (automatic),57.31412429900806,2398.1158016994627,No
+572A-B,Female,0,No,Yes,25,Yes,No,DSL,Yes,No internet service,No,No internet service,No internet service,No,Two year,No,Electronic check,93.90803324007658,2361.2496500274106,Yes
+573A-B,Female,0,Yes,Yes,63,No,Yes,DSL,No,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),78.36161899601794,4930.1933498541,No
+574A-B,Female,0,Yes,No,9,Yes,No,DSL,Yes,Yes,No,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),106.93436239168044,968.2298641997505,Yes
+575A-B,Male,0,Yes,No,4,No,No,DSL,No internet service,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),109.0460365660974,446.5988120200643,Yes
+576A-B,Male,0,No,No,11,No,No phone service,DSL,No,Yes,No internet service,Yes,No internet service,Yes,One year,No,Electronic check,81.46174516547957,895.5113935088257,No
+577A-B,Female,0,Yes,Yes,49,No,Yes,No,Yes,No,Yes,No internet service,No internet service,No,Two year,Yes,Credit card (automatic),44.73878153296079,2162.337940516405,No
+578A-B,Male,0,No,Yes,14,Yes,No,DSL,Yes,No internet service,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),59.827843318723744,843.0673601768314,Yes
+579A-B,Female,0,Yes,No,6,No,Yes,DSL,Yes,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,22.106319071412454,133.5511310430623,No
+580A-B,Female,1,No,Yes,11,No,Yes,Fiber optic,No,No internet service,No,No,No,No internet service,Month-to-month,Yes,Mailed check,109.05136998775873,1203.8634892034365,Yes
+581A-B,Male,0,Yes,Yes,6,Yes,No,DSL,No internet service,No,No internet service,Yes,No internet service,Yes,One year,Yes,Electronic check,20.87114618638519,120.10391853157725,Yes
+582A-B,Male,0,Yes,No,53,Yes,No,No,No,Yes,Yes,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),63.29198018873883,3356.8781790578455,No
+583A-B,Female,0,Yes,No,4,No,No phone service,DSL,No,No internet service,No,Yes,Yes,No internet service,Month-to-month,No,Mailed check,30.984863659351852,132.30050835114335,Yes
+584A-B,Female,0,No,No,36,No,No,No,No internet service,Yes,No internet service,No,Yes,No,One year,No,Bank transfer (automatic),110.12877854257184,3948.4188859399474,No
+585A-B,Female,0,Yes,Yes,4,No,Yes,DSL,No internet service,No internet service,No internet service,No,No internet service,No,One year,Yes,Electronic check,74.77953222292948,301.6378872635119,No
+586A-B,Male,0,Yes,Yes,38,No,No phone service,Fiber optic,No internet service,Yes,Yes,No,No internet service,No,Two year,Yes,Bank transfer (automatic),22.592479586459195,847.033628846678,Yes
+587A-B,Female,1,Yes,No,22,No,No,No,No,Yes,No internet service,No,No internet service,Yes,One year,No,Bank transfer (automatic),33.7901278459767,745.3944411961551,No
+588A-B,Female,0,Yes,No,14,Yes,Yes,DSL,No,Yes,Yes,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),87.64909167812978,1241.1074401551841,No
+589A-B,Male,0,Yes,Yes,2,No,No phone service,Fiber optic,No internet service,Yes,No,No internet service,Yes,No,One year,Yes,Electronic check,37.11987307156884,70.33101513603472,Yes
+590A-B,Male,0,Yes,Yes,37,No,No,DSL,No,Yes,Yes,No internet service,No,No internet service,One year,No,Mailed check,57.052488578792044,2124.8696174826337,No
+591A-B,Female,0,Yes,Yes,11,No,No phone service,DSL,Yes,Yes,No,No,No,Yes,One year,No,Mailed check,41.324238798100616,440.0605103118777,No
+592A-B,Male,0,No,No,22,Yes,No phone service,DSL,No,Yes,Yes,No,No internet service,No,One year,No,Bank transfer (automatic),57.32275196037482,1252.620609835805,No
+593A-B,Female,0,No,Yes,21,Yes,No,No,No,No,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),76.31699031922247,1603.4710737725404,No
+594A-B,Male,0,No,No,8,Yes,No phone service,DSL,No internet service,Yes,Yes,No,Yes,No,Month-to-month,No,Mailed check,76.80441892292416,622.5867407493716,Yes
+595A-B,Male,1,No,No,4,No,Yes,No,No internet service,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,74.50043074534352,299.2702195322426,Yes
+596A-B,Female,1,No,Yes,6,Yes,No,DSL,No,Yes,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,82.98136787186314,496.0702146820445,Yes
+597A-B,Male,1,Yes,No,4,Yes,Yes,No,No,No internet service,No,Yes,No,Yes,Month-to-month,No,Electronic check,39.546572607155525,163.24729546885288,Yes
+598A-B,Female,0,No,No,6,Yes,No,Fiber optic,Yes,Yes,No internet service,No internet service,Yes,Yes,Month-to-month,No,Mailed check,39.41224785912385,232.16796533479098,No
+599A-B,Male,1,Yes,No,59,Yes,No phone service,No,No,No,No,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,36.96112498816787,2184.1928403268384,No
+600A-B,Female,0,Yes,No,11,No,No,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No,Month-to-month,No,Mailed check,87.34091069370305,963.3382448823554,Yes
+601A-B,Male,0,Yes,Yes,41,No,Yes,Fiber optic,Yes,Yes,No internet service,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),99.15939460099257,4068.6070260381707,Yes
+602A-B,Female,0,No,No,4,No,No,Fiber optic,No,No internet service,No internet service,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),96.53266552339223,387.6506215987211,Yes
+603A-B,Female,0,Yes,Yes,2,Yes,Yes,Fiber optic,No,No,Yes,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),63.64906305076897,150.7561569854963,Yes
+604A-B,Female,0,No,No,24,No,No,DSL,No,No internet service,No,No,No internet service,Yes,One year,No,Bank transfer (automatic),34.27334538078168,832.9193500797332,No
+605A-B,Female,0,No,No,2,No,No,DSL,No,No,Yes,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),57.516959384033406,117.77341440633595,Yes
+606A-B,Female,0,No,Yes,9,No,Yes,Fiber optic,No internet service,No,No,Yes,No internet service,Yes,Month-to-month,No,Electronic check,66.276886756403,598.3739658652369,Yes
+607A-B,Male,0,Yes,Yes,5,Yes,Yes,Fiber optic,No internet service,Yes,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,105.19957627047523,535.5399621897957,Yes
+608A-B,Male,0,No,No,3,Yes,Yes,No,Yes,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),89.03826661633344,242.71857781850292,Yes
+609A-B,Male,1,Yes,No,35,Yes,No phone service,DSL,No,No internet service,No internet service,No internet service,No internet service,Yes,Two year,Yes,Electronic check,69.61240078285012,2430.0083395521074,No
+610A-B,Male,0,No,Yes,11,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),28.846977790679077,322.138134011166,Yes
+611A-B,Male,0,Yes,Yes,3,No,No,No,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),82.39973779120636,235.70615543616304,Yes
+612A-B,Male,0,No,No,13,No,Yes,Fiber optic,No,No,Yes,Yes,No internet service,No,One year,No,Electronic check,80.69185617899844,1041.7165259872925,Yes
+613A-B,Male,0,Yes,No,66,No,No,Fiber optic,No,Yes,Yes,No internet service,No,Yes,Two year,No,Mailed check,50.041284157531464,3288.406106196063,No
+614A-B,Male,0,No,No,10,No,No phone service,DSL,No internet service,Yes,Yes,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),110.90652666673205,1096.178953449449,Yes
+615A-B,Male,0,No,Yes,21,Yes,No phone service,No,Yes,Yes,No,No internet service,No,Yes,Month-to-month,Yes,Mailed check,59.19871219992718,1241.3140445573954,No
+616A-B,Male,0,Yes,No,51,No,Yes,No,No,No internet service,No,Yes,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),57.609884624790254,2930.9749789322786,No
+617A-B,Male,0,Yes,Yes,8,Yes,Yes,DSL,No internet service,Yes,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,97.86799544214657,783.3199404254611,Yes
+618A-B,Male,0,No,No,8,Yes,Yes,Fiber optic,No internet service,No,No internet service,No,Yes,No internet service,Month-to-month,No,Credit card (automatic),83.06825842605943,658.6558463008,Yes
+619A-B,Female,0,No,No,9,Yes,No phone service,No,Yes,Yes,Yes,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),49.59245431778764,433.89911756329184,No
+620A-B,Female,0,No,No,4,Yes,No phone service,Fiber optic,Yes,No internet service,No,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,107.08295053995829,419.80227146256226,Yes
+621A-B,Female,0,Yes,Yes,6,Yes,No,DSL,No,Yes,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,77.36368543993018,466.1632467302912,Yes
+622A-B,Male,0,No,No,1,No,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,43.4884997295314,39.51386144194059,Yes
+623A-B,Male,0,Yes,Yes,7,No,No,DSL,Yes,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,35.47586056656908,247.00924562350554,Yes
+624A-B,Male,1,No,No,4,Yes,Yes,No,No internet service,Yes,No,No,No internet service,No,Month-to-month,No,Electronic check,97.25520990238554,379.1611711061172,Yes
+625A-B,Male,0,No,No,36,No,Yes,No,No internet service,Yes,No,No,No,No,Two year,Yes,Credit card (automatic),80.73757107810488,2898.8576803173178,No
+626A-B,Female,1,Yes,No,1,Yes,No,DSL,No internet service,Yes,No,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),47.82724163133918,47.96999488804103,No
+627A-B,Female,0,Yes,Yes,9,Yes,No,No,Yes,Yes,No,No,No internet service,No internet service,One year,No,Bank transfer (automatic),88.75825224656535,790.3034692088478,No
+628A-B,Female,0,Yes,No,10,No,No phone service,DSL,No,No,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102.3381028043356,1033.095892395691,Yes
+629A-B,Female,1,No,Yes,70,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No,No internet service,Two year,Yes,Bank transfer (automatic),113.00476876458762,7919.397482816792,Yes
+630A-B,Male,0,No,Yes,55,No,No,Fiber optic,No internet service,No,No internet service,No internet service,No,Yes,One year,No,Electronic check,87.66506882143494,4827.556914573962,No
+631A-B,Female,0,Yes,No,21,No,Yes,DSL,No,No,Yes,No,No internet service,Yes,Two year,Yes,Mailed check,71.94746344927506,1512.9393579735333,No
+632A-B,Female,0,Yes,No,61,No,No phone service,Fiber optic,Yes,No,No,No internet service,No internet service,No,Two year,Yes,Credit card (automatic),88.68045126375077,5392.465336137698,No
+633A-B,Male,0,Yes,Yes,38,No,No,Fiber optic,No,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,21.13414162018522,785.1017621442741,No
+634A-B,Male,1,Yes,Yes,15,No,No,DSL,No,Yes,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),25.912942735840062,394.1583954937639,No
+635A-B,Male,0,No,No,1,No,No phone service,Fiber optic,Yes,No,Yes,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),94.95405412635215,92.04496468214484,Yes
+636A-B,Female,0,No,No,33,Yes,No phone service,No,No,Yes,Yes,Yes,No internet service,No,Two year,No,Electronic check,62.079896474896856,2054.6362390630325,No
+637A-B,Male,0,Yes,Yes,59,No,No phone service,DSL,No,No internet service,No internet service,No,No internet service,Yes,Two year,No,Electronic check,111.28099675829739,6548.574111757616,No
+638A-B,Female,0,No,No,30,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),90.79021303128027,2709.485776953006,No
+639A-B,Female,0,Yes,No,44,No,Yes,No,No internet service,Yes,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),30.312119819841506,1338.3453588773843,No
+640A-B,Male,0,Yes,No,4,No,No phone service,DSL,Yes,No,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,22.428086176347897,84.19577510046805,Yes
+641A-B,Female,0,Yes,Yes,43,Yes,No,Fiber optic,No,Yes,No internet service,No internet service,Yes,Yes,Two year,No,Credit card (automatic),101.49973831420749,4373.287966261534,No
+642A-B,Male,0,No,Yes,35,No,Yes,No,No internet service,Yes,No internet service,No internet service,Yes,No internet service,One year,Yes,Bank transfer (automatic),48.62449140301002,1698.0760340908698,No
+643A-B,Female,0,No,No,58,No,No,No,Yes,Yes,Yes,No internet service,Yes,No,Two year,No,Electronic check,93.6228959308194,5423.851168714725,No
+644A-B,Female,0,No,No,13,Yes,No,No,No,No,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),112.44759387182545,1477.024418695834,No
+645A-B,Female,0,No,No,47,No,No,No,No internet service,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),79.87609387288606,3747.694436300513,No
+646A-B,Male,1,Yes,No,16,Yes,No,No,No internet service,No internet service,Yes,No internet service,No,No,Month-to-month,No,Mailed check,65.27872408830358,1028.4757590864756,No
+647A-B,Female,0,Yes,No,8,No,Yes,Fiber optic,No internet service,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,20.11600407838023,156.7859857554962,Yes
+648A-B,Female,0,Yes,Yes,26,No,Yes,DSL,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),38.0280606890051,968.8952243694288,No
+649A-B,Female,0,Yes,No,9,No,No,Fiber optic,Yes,Yes,No internet service,No internet service,No internet service,Yes,One year,No,Bank transfer (automatic),114.29960395186387,1033.415987667038,No
+650A-B,Male,0,Yes,Yes,65,Yes,Yes,Fiber optic,No internet service,No,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),70.5153485392209,4623.87812587789,No
+651A-B,Female,0,Yes,No,2,No,No phone service,No,No internet service,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,24.464381627125842,38.86784078076683,Yes
+652A-B,Male,0,No,Yes,64,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Two year,No,Bank transfer (automatic),45.20010271044039,2896.0690817852037,No
+653A-B,Female,1,No,No,53,Yes,Yes,Fiber optic,Yes,Yes,No internet service,Yes,No,No,Two year,Yes,Mailed check,92.27286974102472,4879.26360798755,No
+654A-B,Female,0,Yes,No,12,Yes,Yes,No,No internet service,Yes,No,No,Yes,No internet service,Two year,Yes,Electronic check,64.33353998503918,779.7672020730475,No
+655A-B,Female,1,No,Yes,51,Yes,No,DSL,No internet service,Yes,Yes,No internet service,Yes,Yes,One year,Yes,Electronic check,28.378480078507238,1442.9411418401594,No
+656A-B,Male,0,No,Yes,49,Yes,Yes,DSL,Yes,No internet service,Yes,Yes,Yes,No,Two year,Yes,Mailed check,103.96954243467373,5096.543779366861,No
+657A-B,Female,0,No,Yes,46,Yes,No phone service,No,No internet service,No,No,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),35.71336821760886,1644.217337233855,No
+658A-B,Female,1,Yes,No,6,Yes,No,No,Yes,No internet service,Yes,No,No,No internet service,Month-to-month,No,Mailed check,112.67777193390438,691.0397078236969,Yes
+659A-B,Female,0,No,Yes,6,Yes,Yes,No,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,56.040899830060766,337.33588247724083,Yes
+660A-B,Male,0,Yes,Yes,51,No,Yes,Fiber optic,No,Yes,No internet service,No internet service,No,No,One year,No,Mailed check,110.40389579932258,5639.616280762066,No
+661A-B,Female,1,Yes,Yes,7,No,No,No,No,Yes,Yes,No internet service,No,No,Month-to-month,No,Mailed check,71.78354568952903,483.4987040087735,Yes
+662A-B,Female,1,No,Yes,35,Yes,No phone service,Fiber optic,No,Yes,Yes,No internet service,No internet service,No,One year,No,Bank transfer (automatic),43.116454810986305,1495.7620626318876,No
+663A-B,Female,1,Yes,Yes,41,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Mailed check,98.9079930805729,4041.8641887617287,No
+664A-B,Male,0,Yes,Yes,3,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,No,No internet service,Yes,One year,No,Mailed check,45.20397351065627,131.27984965244184,Yes
+665A-B,Male,0,No,Yes,5,Yes,Yes,No,Yes,No,No internet service,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),98.34733444256149,518.864221933683,Yes
+666A-B,Male,0,Yes,No,38,No,Yes,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),71.91237698897694,2740.0200835752244,No
+667A-B,Male,0,No,Yes,12,No,Yes,No,No internet service,No internet service,No,No,Yes,No,Month-to-month,No,Credit card (automatic),92.62964051277649,1119.712974535501,Yes
+668A-B,Female,1,No,Yes,35,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No internet service,Two year,No,Electronic check,52.826422937957936,1845.0584262210104,No
+669A-B,Male,1,No,No,2,No,No,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,No,Month-to-month,No,Electronic check,86.90213937726776,171.12570710922154,Yes
+670A-B,Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,Yes,No,Yes,No internet service,No internet service,One year,Yes,Mailed check,57.17623154383302,112.68301494730186,No
+671A-B,Male,0,Yes,Yes,56,No,Yes,Fiber optic,No,Yes,No,No internet service,No internet service,No,Two year,Yes,Credit card (automatic),42.584949038287924,2375.7040816250556,No
+672A-B,Male,0,No,No,5,Yes,No phone service,Fiber optic,No internet service,No internet service,No,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),94.27368167406739,461.44397391679047,Yes
+673A-B,Male,0,Yes,Yes,71,Yes,No phone service,No,No internet service,No,No internet service,No,No,No internet service,Month-to-month,No,Mailed check,71.30551953867729,5055.00065210393,No
+674A-B,Female,0,No,Yes,27,No,No phone service,No,No,No,No internet service,No,No,No internet service,Two year,No,Bank transfer (automatic),23.072321273666763,641.3403764394409,No
+675A-B,Female,0,Yes,No,17,No,No phone service,No,Yes,No,No internet service,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),83.58844557448631,1420.6706173006173,No
+676A-B,Female,0,Yes,Yes,35,No,No,Fiber optic,Yes,No internet service,No,Yes,No,Yes,Two year,Yes,Electronic check,34.18867857468254,1208.50226884317,No
+677A-B,Female,1,Yes,Yes,40,No,Yes,No,No internet service,Yes,No,Yes,No internet service,Yes,Two year,No,Bank transfer (automatic),20.63943697957317,842.5736931981909,No
+678A-B,Female,0,No,No,13,No,No phone service,No,No internet service,Yes,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,65.43388160162607,857.5934113140554,Yes
+679A-B,Female,1,No,Yes,67,No,No,No,No,Yes,No internet service,No,No,No internet service,One year,No,Electronic check,57.83633701766245,3868.9997168891277,No
+680A-B,Female,0,Yes,No,56,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No internet service,Yes,Two year,Yes,Credit card (automatic),31.564634571039065,1758.882842891857,No
+681A-B,Male,0,Yes,Yes,11,No,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),98.4122967806113,1076.2375788519535,Yes
+682A-B,Female,0,Yes,Yes,59,No,Yes,DSL,Yes,No internet service,Yes,Yes,No internet service,No,Two year,No,Bank transfer (automatic),52.017970096841864,3073.1815212647325,No
+683A-B,Male,0,No,No,3,No,No,Fiber optic,Yes,No,No internet service,No internet service,Yes,No,Month-to-month,No,Electronic check,49.828847616186394,156.7175741411329,Yes
+684A-B,Male,1,Yes,Yes,3,No,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,33.742063243700045,108.6346363270406,Yes
+685A-B,Male,1,No,No,29,No,No phone service,DSL,No internet service,No internet service,Yes,Yes,No internet service,No internet service,One year,No,Mailed check,91.29454195034708,2662.806913100752,No
+686A-B,Male,0,Yes,No,8,No,No phone service,No,No,No,No,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),116.79299476106812,919.1591457747985,Yes
+687A-B,Female,1,No,Yes,4,Yes,Yes,DSL,No,Yes,No internet service,No,No internet service,Yes,Month-to-month,No,Mailed check,67.91054385854332,289.8102480741045,Yes
+688A-B,Male,0,No,Yes,11,Yes,No phone service,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,25.280695503861864,273.80750372826014,Yes
+689A-B,Male,0,Yes,Yes,19,Yes,Yes,No,No internet service,No internet service,Yes,Yes,No internet service,No,Month-to-month,No,Mailed check,109.71302781103998,2078.1472304287972,No
+690A-B,Female,0,Yes,No,64,No,Yes,Fiber optic,No,Yes,No,No,No internet service,Yes,One year,No,Bank transfer (automatic),67.78458305605918,4355.670085860035,No
+691A-B,Female,0,Yes,No,26,Yes,Yes,DSL,Yes,No,No,No internet service,Yes,No internet service,Two year,Yes,Credit card (automatic),101.7627147568528,2640.1254279351247,No
+692A-B,Female,0,No,Yes,11,Yes,No phone service,DSL,No,No,No internet service,No internet service,No,Yes,Month-to-month,No,Mailed check,30.707414070266537,340.89643920952483,No
+693A-B,Female,0,No,Yes,38,Yes,Yes,Fiber optic,No,No internet service,No internet service,No internet service,No,Yes,Two year,No,Electronic check,108.33066094770646,4102.903022586057,Yes
+694A-B,Male,0,Yes,Yes,17,No,No phone service,Fiber optic,Yes,No internet service,No internet service,No,Yes,No internet service,Month-to-month,Yes,Electronic check,18.280175887701517,316.2950611254078,Yes
+695A-B,Female,1,Yes,Yes,5,Yes,No,Fiber optic,Yes,No,No internet service,No internet service,No,Yes,Month-to-month,No,Mailed check,53.2836449037259,280.96610604469566,Yes
+696A-B,Male,1,No,No,37,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),110.27564987995986,4105.737056879526,No
+697A-B,Female,1,No,No,57,No,Yes,Fiber optic,No,No internet service,No,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),69.59376342421623,3951.966636820543,No
+698A-B,Male,1,No,No,9,No,No,DSL,No internet service,No,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,40.7075925605413,357.9167691255734,Yes
+699A-B,Male,0,No,Yes,42,Yes,No phone service,Fiber optic,No,No internet service,No internet service,Yes,No internet service,No,One year,No,Electronic check,113.01677341604736,4747.458354428217,No
+700A-B,Female,0,Yes,No,45,No,No,Fiber optic,Yes,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,95.6889977225725,4292.409263198889,No
+701A-B,Male,0,Yes,No,22,Yes,Yes,No,No internet service,No,No,No,Yes,No internet service,Month-to-month,Yes,Electronic check,40.273163046087305,873.0192141983346,No
+702A-B,Male,0,Yes,No,58,No,Yes,DSL,Yes,No internet service,No internet service,No internet service,No,No internet service,Two year,Yes,Bank transfer (automatic),104.26835693753685,6038.872889484213,No
+703A-B,Male,1,No,No,15,No,No phone service,No,Yes,No internet service,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),67.66678102704252,1013.8580920054662,No
+704A-B,Female,1,Yes,No,43,No,No phone service,DSL,No,Yes,No internet service,Yes,Yes,No internet service,Two year,No,Mailed check,23.384362315551773,1007.2566191232243,No
+705A-B,Male,0,No,No,44,Yes,No,DSL,No internet service,No,Yes,Yes,No,No internet service,One year,No,Mailed check,68.23898146348697,3011.1959017669315,No
+706A-B,Female,0,Yes,Yes,35,Yes,No,DSL,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),74.88363439105811,2620.5744165491874,No
+707A-B,Female,0,No,Yes,43,No,No phone service,No,Yes,Yes,No,No internet service,No,No,Two year,Yes,Bank transfer (automatic),109.42173720519354,4685.457538613924,No
+708A-B,Male,1,Yes,No,11,No,Yes,DSL,Yes,No internet service,Yes,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),39.59276281801108,438.45151853686554,Yes
+709A-B,Female,0,Yes,No,32,No,Yes,No,No,Yes,No internet service,No,Yes,Yes,Two year,No,Mailed check,112.76966482956196,3612.634483584606,No
+710A-B,Female,0,No,No,38,No,No,Fiber optic,No,No,Yes,Yes,No internet service,No,Two year,No,Electronic check,71.52175066758971,2723.7406178814804,No
+711A-B,Male,0,No,Yes,6,No,No,No,No internet service,Yes,No internet service,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),68.8842364308826,407.8666224125204,No
+712A-B,Male,0,Yes,No,30,Yes,No phone service,DSL,No,No,No,No,Yes,No internet service,Two year,Yes,Mailed check,33.139581033339866,972.596976898343,No
+713A-B,Female,0,No,No,6,No,No phone service,DSL,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),52.07505299134164,319.5795528366301,Yes
+714A-B,Male,0,No,No,57,Yes,Yes,Fiber optic,No internet service,No,No internet service,No,No,Yes,Two year,Yes,Electronic check,82.39731040432528,4708.958416979451,Yes
+715A-B,Female,1,No,No,3,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Electronic check,83.00026803783861,235.0717258553687,Yes
+716A-B,Male,0,No,Yes,5,Yes,Yes,DSL,No internet service,No internet service,No,No,No,No,Month-to-month,No,Electronic check,113.42349835034908,570.7486267574577,Yes
+717A-B,Male,0,Yes,No,15,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No internet service,Yes,One year,No,Credit card (automatic),21.114073590837105,322.3457937861179,No
+718A-B,Male,0,No,Yes,1,No,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,No,No,Month-to-month,Yes,Credit card (automatic),68.61729286112669,72.20263148067896,Yes
+719A-B,Male,0,Yes,No,36,Yes,No,DSL,Yes,Yes,No internet service,Yes,Yes,No,Two year,No,Electronic check,103.71471021581884,3743.268013543464,No
+720A-B,Male,0,Yes,Yes,44,Yes,No phone service,No,No,Yes,No,No internet service,Yes,No internet service,Two year,Yes,Mailed check,58.464674424157586,2565.4840813233245,No
+721A-B,Male,0,Yes,Yes,66,Yes,No,No,No internet service,No,Yes,No,No,No,Two year,No,Credit card (automatic),61.303661746019195,4047.806864294374,No
+722A-B,Male,0,No,No,3,Yes,No phone service,No,No internet service,Yes,No,Yes,No internet service,Yes,Month-to-month,No,Electronic check,72.40865576984126,229.89696553617418,Yes
+723A-B,Female,0,Yes,No,16,Yes,No phone service,Fiber optic,No,Yes,No,No internet service,Yes,No internet service,One year,Yes,Mailed check,80.42614940273687,1311.0430588158138,No
+724A-B,Female,0,Yes,No,58,Yes,No,DSL,Yes,No,Yes,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),88.17969295796316,5117.87719982554,No
+725A-B,Male,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,No,No internet service,No,No,No internet service,One year,Yes,Mailed check,35.16118717816834,2075.386849489897,No
+726A-B,Female,0,Yes,No,37,No,Yes,Fiber optic,Yes,No,No,No internet service,No internet service,Yes,Two year,Yes,Mailed check,62.90268968632474,2330.835635457419,No
+727A-B,Female,0,No,Yes,5,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,No internet service,Month-to-month,Yes,Electronic check,53.502430155456345,281.6574306537151,Yes
+728A-B,Female,0,Yes,Yes,6,No,No,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,100.81409966649954,627.0672534737104,Yes
+729A-B,Male,1,No,Yes,71,No,No,DSL,No,No internet service,Yes,No,No,No,Month-to-month,No,Mailed check,34.32593464764163,2433.6036133860007,No
+730A-B,Female,0,No,No,2,Yes,No,No,No internet service,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),91.8474305933517,185.81028253551312,Yes
+731A-B,Female,0,No,No,57,No,No,DSL,No,No internet service,No internet service,No,Yes,No internet service,Two year,No,Bank transfer (automatic),99.2239486460537,5641.037207727026,No
+732A-B,Male,0,No,No,53,No,Yes,Fiber optic,Yes,No internet service,Yes,No,Yes,Yes,Two year,No,Mailed check,113.41248297684534,6018.317478270893,No
+733A-B,Male,0,Yes,Yes,55,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),101.92551606249624,5607.575876165714,Yes
+734A-B,Female,0,No,Yes,31,No,No,DSL,Yes,No,Yes,No,No,No,One year,No,Electronic check,41.94339465800776,1276.9012965868385,No
+735A-B,Female,0,Yes,Yes,43,Yes,Yes,No,No internet service,Yes,No internet service,Yes,No,Yes,One year,Yes,Mailed check,66.89751978747347,2877.1850587185377,No
+736A-B,Female,0,Yes,No,67,Yes,No,DSL,Yes,Yes,No internet service,No internet service,No,No,Two year,Yes,Mailed check,20.101405881341865,1346.0308461440736,No
+737A-B,Female,0,No,No,4,Yes,No,No,No,Yes,Yes,Yes,Yes,No,One year,No,Mailed check,99.02436676429099,392.50287876172473,No
+738A-B,Male,0,Yes,No,35,No,Yes,No,No,No,Yes,Yes,Yes,No internet service,Two year,Yes,Electronic check,105.94059965074126,3709.3327582999414,No
+739A-B,Female,0,Yes,No,2,Yes,No phone service,No,No internet service,No,No internet service,No,No,Yes,Month-to-month,Yes,Credit card (automatic),57.446884877855,119.8686146900434,Yes
+740A-B,Male,0,Yes,Yes,28,No,Yes,No,No,No internet service,No internet service,Yes,No,No internet service,Two year,No,Bank transfer (automatic),97.46592443737565,2720.0144476196533,No
+741A-B,Male,0,No,Yes,11,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,69.50271171099811,770.0322996480023,Yes
+742A-B,Female,0,Yes,No,64,Yes,Yes,DSL,No,No internet service,No,No,No,Yes,Two year,No,Bank transfer (automatic),34.28556869782271,2197.104144402325,No
+743A-B,Female,0,Yes,No,1,Yes,No phone service,Fiber optic,Yes,No,No internet service,No internet service,Yes,No,Month-to-month,Yes,Electronic check,53.87890573549676,49.86777071860603,Yes
+744A-B,Female,0,No,Yes,24,Yes,Yes,Fiber optic,No internet service,No internet service,No,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),72.40227518893066,1738.4101717447084,No
+745A-B,Male,1,No,No,1,No,No,DSL,No,No,No internet service,No internet service,No,No,Month-to-month,Yes,Mailed check,47.94579097672073,52.32570766115927,No
+746A-B,Male,0,No,No,58,Yes,No,DSL,No,Yes,No internet service,No internet service,Yes,No,Two year,Yes,Credit card (automatic),41.068725019546775,2379.754028060742,No
+747A-B,Male,0,Yes,No,53,No,Yes,Fiber optic,No,Yes,No internet service,No,No internet service,No,Two year,Yes,Mailed check,43.156847598767015,2289.1492468909682,No
+748A-B,Female,0,Yes,Yes,56,Yes,Yes,Fiber optic,No,No,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),58.49175171907532,3286.81715407654,Yes
+749A-B,Female,0,No,Yes,53,No,No phone service,DSL,No,No,No,No internet service,Yes,No,One year,No,Bank transfer (automatic),113.96895321968297,6053.7628896934775,No
+750A-B,Male,1,Yes,No,70,Yes,No phone service,DSL,Yes,No internet service,No,Yes,No,No internet service,One year,No,Electronic check,41.234535200458424,2889.4292936276543,No
+751A-B,Male,0,Yes,No,69,Yes,No phone service,No,No,Yes,No internet service,Yes,Yes,No internet service,One year,No,Electronic check,99.11306613912558,6815.71719275615,No
+752A-B,Female,0,Yes,Yes,9,Yes,Yes,DSL,No,No,No,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,37.77510889766464,334.24418159897596,Yes
+753A-B,Male,0,Yes,Yes,57,Yes,No,Fiber optic,No,No internet service,Yes,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,75.99234807404684,4333.687198859152,Yes
+754A-B,Male,1,No,No,60,No,Yes,Fiber optic,No,No,Yes,No,No internet service,No,One year,Yes,Bank transfer (automatic),109.7793648567382,6587.914402857152,No
+755A-B,Female,0,Yes,No,23,No,No phone service,Fiber optic,Yes,Yes,No,No,No internet service,Yes,One year,Yes,Mailed check,29.559437470244035,690.370651641327,No
+756A-B,Female,1,Yes,Yes,68,No,No,DSL,Yes,No,No,No internet service,No internet service,Yes,One year,No,Mailed check,86.09512531077088,5838.4101191231175,No
+757A-B,Female,0,No,No,40,No,No,Fiber optic,Yes,No,No,No internet service,No,No internet service,One year,Yes,Credit card (automatic),93.31427815148628,3726.495417816562,No
+758A-B,Female,1,No,Yes,1,Yes,Yes,Fiber optic,No,No,Yes,No,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),22.626367304838542,17.741968280882386,Yes
+759A-B,Male,0,No,Yes,30,No,No phone service,Fiber optic,Yes,No,No internet service,Yes,No,No internet service,One year,Yes,Electronic check,65.33093040080355,1963.2617164102448,Yes
+760A-B,Male,0,No,No,6,No,Yes,Fiber optic,No,No internet service,Yes,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),99.0395343391913,619.014977668258,Yes
+761A-B,Male,0,No,No,22,No,Yes,DSL,Yes,No internet service,No internet service,No,No,No internet service,One year,No,Mailed check,42.52170866943719,921.60405485741,No
+762A-B,Male,0,Yes,No,15,No,No,No,No internet service,No,No,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,71.3954259345625,1057.924306771812,Yes
+763A-B,Female,0,Yes,No,4,No,Yes,DSL,No,No internet service,No,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),89.33058200662559,357.5190376767108,Yes
+764A-B,Male,0,No,Yes,40,No,No phone service,DSL,Yes,Yes,Yes,No,No internet service,No internet service,Two year,Yes,Credit card (automatic),22.29169039577142,908.5612539005182,No
+765A-B,Female,0,Yes,No,9,Yes,No,No,Yes,Yes,No,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),81.79053908295052,755.3827495404188,Yes
+766A-B,Female,0,No,Yes,2,Yes,No,No,No internet service,No,No,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,111.4318028274348,233.02240591245106,Yes
+767A-B,Male,0,No,No,39,No,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No,No internet service,Two year,Yes,Electronic check,50.943570241901746,1997.3729383742025,Yes
+768A-B,Female,1,Yes,No,8,No,No,Fiber optic,No,No internet service,Yes,No,Yes,No internet service,Month-to-month,No,Mailed check,33.80875156135147,267.20057598933346,Yes
+769A-B,Male,0,Yes,Yes,7,Yes,No,Fiber optic,Yes,Yes,No,No internet service,Yes,No,Month-to-month,Yes,Credit card (automatic),92.6188812042375,648.5047157949648,Yes
+770A-B,Female,0,No,No,11,No,No,Fiber optic,No,No,No,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),93.35315867260125,1026.6360079109343,Yes
+771A-B,Female,0,Yes,No,14,No,No phone service,DSL,Yes,No internet service,No internet service,No,No,Yes,One year,No,Mailed check,23.12766341366897,324.6924996441095,No
+772A-B,Male,0,No,Yes,43,No,No,DSL,No,No internet service,Yes,No internet service,Yes,No,One year,No,Bank transfer (automatic),94.09705804799982,4039.919408379473,No
+773A-B,Female,0,Yes,No,7,No,Yes,No,No internet service,Yes,No,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),22.88375254711387,156.53195423765686,Yes
+774A-B,Male,0,No,No,41,Yes,Yes,No,No internet service,No,No,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),52.50261911960956,2147.913914013305,No
+775A-B,Female,0,Yes,No,11,Yes,Yes,DSL,No,No,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),107.17535957182272,1172.601543858671,Yes
+776A-B,Male,0,Yes,No,20,No,Yes,No,No,No internet service,No,Yes,No,No internet service,Two year,Yes,Credit card (automatic),63.93448900911985,1263.8879584758101,No
+777A-B,Female,1,No,No,39,No,Yes,No,Yes,No internet service,No,No internet service,No internet service,Yes,Two year,No,Credit card (automatic),116.82747908552474,4559.553130252761,No
+778A-B,Male,0,Yes,Yes,36,Yes,Yes,No,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,35.42791699870115,1276.6383700879544,No
+779A-B,Female,0,Yes,No,34,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),38.97357249227435,1325.8765323748894,No
+780A-B,Female,0,Yes,Yes,15,Yes,No,Fiber optic,No,Yes,No internet service,Yes,No internet service,No,Month-to-month,Yes,Mailed check,18.26594373757932,282.28326594647433,Yes
+781A-B,Female,1,No,No,56,Yes,No,DSL,Yes,No internet service,No,Yes,No internet service,No,Two year,Yes,Mailed check,63.28379905766207,3537.217452473248,No
+782A-B,Male,0,No,No,5,Yes,No phone service,No,No,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,114.90737271255888,581.2971143157143,Yes
+783A-B,Female,0,Yes,No,4,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,113.87140747537075,476.49927466062013,Yes
+784A-B,Male,0,Yes,No,55,Yes,No phone service,No,No,No,No internet service,Yes,No internet service,No internet service,Two year,No,Bank transfer (automatic),32.36219249405902,1779.6222760107494,No
+785A-B,Male,1,Yes,Yes,9,No,Yes,No,No internet service,Yes,Yes,Yes,No internet service,No internet service,One year,Yes,Mailed check,58.90149268722502,542.0685782682554,No
+786A-B,Female,1,No,Yes,71,Yes,No,No,Yes,No,No internet service,Yes,Yes,No,Two year,No,Mailed check,104.28041154497464,7398.7798950827555,No
+787A-B,Female,0,No,Yes,52,Yes,Yes,DSL,No internet service,No,No,No internet service,No,No,Two year,Yes,Mailed check,35.609162097641466,1875.5378024052156,No
+788A-B,Female,1,No,No,49,No,No phone service,No,No internet service,No internet service,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),44.63913193345209,2172.2726485494336,No
+789A-B,Male,0,Yes,No,12,Yes,Yes,DSL,No internet service,Yes,No internet service,No,No,No,Month-to-month,Yes,Mailed check,104.2277903708399,1253.085370346639,No
+790A-B,Female,0,Yes,Yes,61,No,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),105.52245483142976,6428.42622477348,No
+791A-B,Male,0,No,No,58,No,No phone service,Fiber optic,Yes,No,No internet service,No,No,No,Two year,Yes,Electronic check,24.61875672366844,1417.4312503370825,No
+792A-B,Female,0,Yes,Yes,13,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No internet service,Month-to-month,No,Electronic check,72.55612017914211,940.1076349503287,Yes
+793A-B,Male,0,Yes,Yes,2,Yes,Yes,DSL,Yes,No internet service,No internet service,No internet service,Yes,No,Month-to-month,No,Mailed check,106.516482547237,212.07389956536034,No
+794A-B,Male,0,No,No,11,No,No phone service,Fiber optic,No internet service,No internet service,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),78.0111843215694,847.438376625818,Yes
+795A-B,Female,0,Yes,No,10,No,No phone service,Fiber optic,No,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,No,Mailed check,64.89531472245838,656.5702657768637,Yes
+796A-B,Female,0,No,No,22,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),28.501803762752118,627.8190745001912,No
+797A-B,Female,0,No,No,39,No,No phone service,DSL,No internet service,No,No internet service,No internet service,Yes,No,Two year,No,Bank transfer (automatic),21.359454969467393,842.4453768799917,No
+798A-B,Female,0,No,No,25,Yes,No,No,No internet service,Yes,No,Yes,No,Yes,Two year,No,Bank transfer (automatic),24.612571260050824,608.1216690636957,No
+799A-B,Female,1,Yes,No,17,Yes,No phone service,No,Yes,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),102.74160526192249,1741.3783343181808,Yes
+800A-B,Female,0,Yes,Yes,34,No,No phone service,No,Yes,No internet service,No,Yes,No internet service,Yes,Month-to-month,No,Mailed check,59.59293739399454,2028.2817036012686,No
+801A-B,Male,0,Yes,Yes,27,Yes,Yes,Fiber optic,No,No internet service,No,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),46.72996729723185,1271.0431213318725,No
+802A-B,Male,0,Yes,No,49,Yes,No,No,No,No internet service,No,No,Yes,No,Two year,Yes,Electronic check,85.8410851804388,4193.46069862808,No
+803A-B,Male,0,Yes,No,5,Yes,No,No,No,Yes,No internet service,No,No,No internet service,Month-to-month,No,Credit card (automatic),98.41036283760823,477.49957313422624,Yes
+804A-B,Male,0,No,No,43,Yes,No phone service,DSL,Yes,Yes,No,Yes,No internet service,Yes,Two year,No,Electronic check,65.67514741552814,2842.909018245556,No
+805A-B,Female,0,No,No,6,No,No,No,No internet service,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),89.60392057981855,532.7469008506184,Yes
+806A-B,Female,0,No,Yes,63,Yes,No,DSL,No internet service,No internet service,Yes,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),97.61691374094383,6155.44987879414,No
+807A-B,Male,0,No,No,26,Yes,No phone service,Fiber optic,No,No,Yes,No,No,No,Two year,No,Mailed check,30.348177495628377,796.2463729630562,No
+808A-B,Female,0,No,No,6,No,No,No,No internet service,No,No,No internet service,No,No,Month-to-month,No,Electronic check,23.756002972507495,155.59941982618705,Yes
+809A-B,Male,0,No,Yes,51,No,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),77.6820215217824,3966.037432650547,No
+810A-B,Male,1,No,No,4,No,No,DSL,No internet service,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,111.98183232053427,443.9002518076482,Yes
+811A-B,Male,0,Yes,No,64,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,73.64403466027454,4706.703373374543,No
+812A-B,Female,1,No,No,31,No,No,Fiber optic,No internet service,No,No internet service,Yes,No internet service,Yes,Two year,Yes,Electronic check,93.71000594156115,2898.9812305519986,No
+813A-B,Female,1,No,No,29,No,No,No,No internet service,No internet service,No,Yes,No internet service,No,Two year,No,Bank transfer (automatic),24.207155195960198,709.5153706240258,No
+814A-B,Female,0,No,No,69,No,No,No,No,No,No,Yes,No,Yes,Two year,Yes,Electronic check,22.997994708455487,1573.1012441789119,No
+815A-B,Male,0,No,Yes,25,No,No,No,No internet service,No internet service,No,No,No,No internet service,Two year,No,Credit card (automatic),107.50483267146817,2675.3252701364527,No
+816A-B,Male,0,Yes,Yes,32,Yes,No,Fiber optic,Yes,No internet service,No,No internet service,No,No internet service,One year,Yes,Bank transfer (automatic),109.4633066834153,3496.5945594011096,No
+817A-B,Female,0,No,Yes,33,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,No internet service,Two year,No,Bank transfer (automatic),76.24616512320993,2515.1122898516505,No
+818A-B,Male,0,No,Yes,22,No,No,Fiber optic,No,No internet service,No,No,Yes,No internet service,One year,Yes,Credit card (automatic),91.42757784878653,2020.3021601715718,No
+819A-B,Male,0,No,Yes,13,Yes,Yes,No,No internet service,No,No,No,Yes,No,One year,No,Electronic check,64.63097770458708,824.0696211882159,No
+820A-B,Female,0,Yes,No,9,No,Yes,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),93.42294771002682,851.0523811527505,Yes
+821A-B,Female,0,Yes,Yes,63,Yes,No phone service,DSL,No internet service,No internet service,No,Yes,Yes,Yes,Two year,No,Electronic check,60.05019318169323,3759.8968394729436,No
+822A-B,Female,0,Yes,No,26,No,No,DSL,No,No internet service,No internet service,No internet service,No internet service,No,Two year,No,Credit card (automatic),61.495756804686614,1591.871189545425,No
+823A-B,Male,1,Yes,No,14,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,No,No,One year,No,Mailed check,62.60250147623552,878.6026732037844,No
+824A-B,Male,0,No,No,36,Yes,Yes,Fiber optic,No,Yes,No internet service,No internet service,Yes,No,One year,Yes,Bank transfer (automatic),76.47827745887793,2761.8622447117655,No
+825A-B,Female,0,Yes,Yes,18,Yes,Yes,Fiber optic,No,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,81.17110637315622,1466.9563172195597,No
+826A-B,Male,0,No,Yes,48,Yes,No phone service,No,No internet service,No internet service,No,No internet service,No internet service,No,Two year,Yes,Mailed check,84.28955256461373,4047.2099967048457,No
+827A-B,Male,0,Yes,Yes,11,No,No,Fiber optic,Yes,No internet service,Yes,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),91.32801718739925,1001.424948756721,No
+828A-B,Male,1,No,Yes,44,Yes,No,Fiber optic,Yes,No internet service,No internet service,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),61.02168708859495,2700.0341626370005,No
+829A-B,Female,0,No,No,5,No,Yes,DSL,No internet service,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),64.2629842122696,310.65790403339247,Yes
+830A-B,Male,0,No,Yes,54,No,No phone service,No,No internet service,No,No internet service,No,Yes,No internet service,Two year,Yes,Electronic check,19.640896410868386,1047.8040891991811,No
+831A-B,Female,0,Yes,Yes,15,Yes,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),83.56812723555966,1248.5006953005945,Yes
+832A-B,Female,0,Yes,Yes,33,No,No phone service,Fiber optic,No,No,No,No,No internet service,Yes,Two year,Yes,Mailed check,111.70356921645278,3685.8251600377935,No
+833A-B,Female,0,Yes,No,3,Yes,No phone service,DSL,No,No internet service,Yes,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),94.54830186204202,270.0402689971615,Yes
+834A-B,Male,0,No,No,2,Yes,No phone service,No,Yes,No internet service,No,No internet service,Yes,Yes,Month-to-month,No,Bank transfer (automatic),31.559861396011875,70.08269807659134,No
+835A-B,Male,1,Yes,No,28,Yes,No phone service,DSL,No internet service,Yes,Yes,No,Yes,Yes,One year,No,Mailed check,28.546541385239053,800.6275058092526,No
+836A-B,Female,0,No,No,58,Yes,No phone service,Fiber optic,Yes,No,No internet service,No internet service,Yes,Yes,Two year,Yes,Bank transfer (automatic),18.73163152309249,1091.7549458969067,No
+837A-B,Male,0,Yes,Yes,9,Yes,Yes,No,Yes,No internet service,No internet service,No internet service,No,No,Month-to-month,No,Mailed check,35.72981169368292,330.2045532459826,Yes
+838A-B,Female,0,No,Yes,11,Yes,No phone service,Fiber optic,No,No,No,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),19.254882292574784,206.26606473680476,No
+839A-B,Female,0,Yes,Yes,59,No,No,Fiber optic,Yes,Yes,No internet service,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),44.38462825758297,2627.1553720694765,No
+840A-B,Male,0,Yes,Yes,25,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Electronic check,114.835809957982,2887.5797486123333,Yes
+841A-B,Male,1,No,No,69,No,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),88.27510162405366,6101.020562880656,No
+842A-B,Female,1,No,No,55,No,No,Fiber optic,No internet service,No internet service,No,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),54.75445747858497,3022.2052704236403,No
+843A-B,Female,0,No,Yes,41,Yes,No,Fiber optic,Yes,Yes,No internet service,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),59.338099253435836,2435.686830371751,Yes
+844A-B,Male,1,Yes,No,26,Yes,No phone service,DSL,Yes,Yes,No internet service,No internet service,No internet service,Yes,One year,No,Electronic check,74.53300797512615,1942.8162558075717,No
+845A-B,Female,0,Yes,Yes,71,No,No phone service,No,Yes,Yes,No,No internet service,No,Yes,Two year,Yes,Electronic check,95.3949800444356,6784.285794947209,No
+846A-B,Male,0,Yes,No,22,No,No phone service,Fiber optic,Yes,No internet service,No,Yes,Yes,No internet service,Month-to-month,No,Electronic check,87.7861501827051,1916.5805291574684,Yes
+847A-B,Female,0,Yes,Yes,14,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,24.722706341446113,357.095062730925,No
+848A-B,Male,0,Yes,Yes,66,Yes,Yes,Fiber optic,Yes,No,No internet service,Yes,No,No internet service,Two year,Yes,Bank transfer (automatic),41.26837772727632,2739.5634010908993,No
+849A-B,Female,0,No,No,3,Yes,Yes,DSL,Yes,No internet service,Yes,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),39.75217888345651,100.35381388705355,Yes
+850A-B,Male,0,Yes,Yes,1,No,No phone service,DSL,No internet service,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,30.917670498838262,44.14238891660416,Yes
+851A-B,Female,0,No,No,70,No,No,No,No internet service,No internet service,No,No,No internet service,No internet service,Two year,Yes,Credit card (automatic),33.90843909119624,2364.8741413203743,No
+852A-B,Female,1,Yes,No,65,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No,No,One year,Yes,Mailed check,95.72919687095138,6211.607157680161,No
+853A-B,Female,0,Yes,Yes,4,No,No,Fiber optic,No internet service,No,No,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),108.70280820926534,450.2556415583256,Yes
+854A-B,Female,1,Yes,No,35,No,Yes,DSL,No internet service,No internet service,Yes,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),70.06135830719518,2448.799336722217,No
+855A-B,Male,0,No,No,44,Yes,No,No,Yes,No,No,No internet service,No,Yes,Two year,Yes,Credit card (automatic),46.65586061159749,2049.983812431255,No
+856A-B,Male,0,Yes,Yes,16,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),91.29496886748504,1459.9150200526396,Yes
+857A-B,Female,0,No,No,70,No,No,DSL,No internet service,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,19.564099116588867,1365.789085149445,No
+858A-B,Female,1,No,No,3,No,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,51.16601511850479,139.5636308028324,Yes
+859A-B,Male,0,Yes,Yes,12,Yes,No,No,No internet service,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),106.01547324415162,1267.8271739805093,No
+860A-B,Female,0,No,No,16,No,No phone service,No,No internet service,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),42.15203697414192,683.730314705929,No
+861A-B,Male,0,Yes,No,47,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,97.85691236766344,4591.056824487619,Yes
+862A-B,Male,1,Yes,No,69,Yes,No,No,Yes,No internet service,No internet service,Yes,No,No internet service,Month-to-month,Yes,Electronic check,97.68148759278722,6744.614512860394,No
+863A-B,Male,1,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No,No internet service,One year,Yes,Bank transfer (automatic),23.80081525250724,1674.1531292611448,No
+864A-B,Male,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),63.47568766715513,144.0406267421613,No
+865A-B,Female,0,No,Yes,28,No,No phone service,DSL,Yes,No internet service,No,No internet service,Yes,Yes,Two year,Yes,Mailed check,24.294701638014125,683.1199863952146,No
+866A-B,Male,0,Yes,Yes,6,Yes,No,DSL,No,No internet service,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Mailed check,91.91433842280456,531.1248269258924,No
+867A-B,Male,1,Yes,No,10,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),48.023634304460764,481.4567054913416,Yes
+868A-B,Male,0,Yes,Yes,1,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),115.30400117424868,100.17120023989618,Yes
+869A-B,Male,0,Yes,Yes,55,Yes,No phone service,No,Yes,No,No,No,Yes,No internet service,Two year,Yes,Credit card (automatic),100.80604159187612,5550.164822391026,No
+870A-B,Female,0,No,No,1,Yes,No phone service,Fiber optic,No internet service,No,No,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),78.47172171603658,88.87121509292626,Yes
+871A-B,Male,0,Yes,No,11,Yes,No,DSL,Yes,No internet service,No,No,Yes,No,Month-to-month,Yes,Mailed check,80.4276036155209,887.5387629124474,Yes
+872A-B,Female,0,Yes,Yes,30,No,Yes,Fiber optic,Yes,No,Yes,No internet service,Yes,No,Two year,No,Bank transfer (automatic),97.2727865200123,2929.964847348675,No
+873A-B,Female,0,Yes,Yes,9,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),21.100863225011448,205.29131497264623,Yes
+874A-B,Female,0,No,Yes,68,No,No phone service,No,Yes,No,Yes,No internet service,No,No internet service,Two year,Yes,Bank transfer (automatic),31.305155091295497,2125.2575102979454,No
+875A-B,Male,1,No,No,7,No,No,No,No,Yes,No internet service,No internet service,No internet service,No,Month-to-month,No,Mailed check,24.405998442209693,162.90860016295056,Yes
+876A-B,Female,1,Yes,Yes,18,No,Yes,No,Yes,No,No internet service,No internet service,Yes,No internet service,Two year,No,Mailed check,31.982654439450236,562.774119369908,No
+877A-B,Female,0,No,No,68,Yes,No phone service,No,Yes,No internet service,Yes,No,No,No internet service,One year,No,Credit card (automatic),111.986135215162,7622.682757932254,No
+878A-B,Female,0,Yes,Yes,10,Yes,No phone service,Fiber optic,No internet service,Yes,No,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),59.21273844218365,583.8370810788196,Yes
+879A-B,Female,0,Yes,No,3,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,No,Mailed check,92.77760279783213,280.9342008839809,Yes
+880A-B,Female,0,Yes,Yes,54,No,Yes,Fiber optic,No,No internet service,Yes,Yes,No internet service,No internet service,Two year,No,Mailed check,70.24462515144322,3803.1089105515794,No
+881A-B,Male,0,No,Yes,65,Yes,Yes,No,No,No internet service,Yes,No,Yes,No,One year,No,Mailed check,75.73859624526959,4926.628353960325,No
+882A-B,Male,0,Yes,No,51,Yes,Yes,Fiber optic,No internet service,No,Yes,No,No internet service,No,Two year,No,Electronic check,86.81239191335166,4425.994034989353,No
+883A-B,Female,0,No,No,63,Yes,Yes,DSL,Yes,No internet service,No,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),65.78348555694052,4136.340160544454,No
+884A-B,Male,0,No,No,50,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No internet service,Yes,Two year,No,Electronic check,51.735414382648365,2593.0484418511137,No
+885A-B,Female,1,No,Yes,65,No,No,Fiber optic,No,Yes,Yes,No internet service,No,No internet service,One year,No,Bank transfer (automatic),105.95808454493063,6891.957474444554,No
+886A-B,Female,1,No,Yes,71,No,No phone service,DSL,No,Yes,No internet service,No,No,Yes,One year,No,Bank transfer (automatic),116.3238567909103,8258.235992578544,No
+887A-B,Male,1,No,No,4,No,No,No,Yes,No internet service,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,31.610198521572457,128.0485970103654,Yes
+888A-B,Male,0,No,Yes,35,Yes,Yes,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No,Two year,Yes,Mailed check,24.702210256527636,875.0190767268323,No
+889A-B,Female,0,Yes,Yes,20,No,Yes,No,Yes,No internet service,No,Yes,No,No,Two year,No,Bank transfer (automatic),60.44149006547755,1197.656845325361,No
+890A-B,Female,0,No,No,25,No,No,No,Yes,No internet service,No internet service,No,No internet service,Yes,Month-to-month,No,Electronic check,32.522072295879326,821.4538215552903,Yes
+891A-B,Female,1,No,Yes,20,Yes,No phone service,DSL,Yes,No,No internet service,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),23.462932226388823,477.8338096508949,No
+892A-B,Male,0,No,No,16,No,No,DSL,No,Yes,No,Yes,Yes,No,One year,No,Bank transfer (automatic),107.56600490521365,1709.989549733671,Yes
+893A-B,Male,0,No,No,9,Yes,No phone service,DSL,No internet service,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,87.86524555633976,782.7234150112512,Yes
+894A-B,Male,0,Yes,No,10,No,No,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Credit card (automatic),99.8657888605263,1007.9798263449741,No
+895A-B,Female,0,Yes,Yes,9,No,Yes,No,Yes,No internet service,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),76.20216504953052,678.7003340496256,Yes
+896A-B,Male,0,No,No,43,No,No phone service,No,No,Yes,No,No internet service,Yes,No internet service,One year,Yes,Mailed check,117.14002394325212,5033.738934496046,No
+897A-B,Female,0,Yes,No,5,No,Yes,DSL,Yes,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),31.650398935439483,162.5706549586377,Yes
+898A-B,Male,1,No,No,3,No,No phone service,No,Yes,Yes,No internet service,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),88.22718559660761,290.8521591481301,Yes
+899A-B,Female,0,No,No,7,Yes,No phone service,Fiber optic,No,Yes,No internet service,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),47.53947842591596,328.02991748494577,Yes
+900A-B,Male,0,Yes,No,5,No,Yes,No,No internet service,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),42.10592554211597,214.52644860005077,Yes
+901A-B,Male,0,Yes,No,13,No,No,No,No,No,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,23.342406768732758,309.7515687903178,Yes
+902A-B,Female,1,No,No,19,Yes,No phone service,DSL,No internet service,No,No internet service,Yes,Yes,No,One year,No,Bank transfer (automatic),45.72529573017317,871.4897223996512,No
+903A-B,Female,0,No,Yes,27,Yes,Yes,DSL,Yes,Yes,No,No,No internet service,Yes,Two year,Yes,Mailed check,48.63445149184783,1296.2186432416718,No
+904A-B,Female,0,No,Yes,48,Yes,Yes,DSL,No,No internet service,No internet service,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),48.534357145259335,2320.8639037297344,No
+905A-B,Female,0,No,Yes,10,No,Yes,Fiber optic,Yes,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Mailed check,50.832440660595246,514.1285102559881,Yes
+906A-B,Female,0,No,Yes,2,Yes,Yes,No,Yes,No internet service,No,Yes,No,Yes,Month-to-month,No,Mailed check,57.794765979458596,109.18694235268093,Yes
+907A-B,Male,0,Yes,No,14,No,Yes,No,Yes,Yes,Yes,No internet service,No,Yes,Month-to-month,Yes,Electronic check,52.95386492133147,729.4995100313854,Yes
+908A-B,Male,0,Yes,No,38,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Two year,Yes,Electronic check,42.87374683056589,1616.9129510549853,No
+909A-B,Female,0,No,No,9,No,No,No,No,Yes,No,No internet service,Yes,No,Month-to-month,No,Mailed check,71.79991471479167,649.7159566741549,Yes
+910A-B,Female,0,No,No,14,Yes,Yes,Fiber optic,Yes,No,No internet service,No,No internet service,No,Two year,Yes,Electronic check,21.720025412566102,293.77547598781683,No
+911A-B,Male,0,Yes,No,13,Yes,No phone service,No,No internet service,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),96.35187395496206,1242.4499750262232,No
+912A-B,Female,0,No,No,8,Yes,No phone service,No,Yes,No internet service,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),33.07207969275204,243.64016988988064,Yes
+913A-B,Female,0,Yes,No,10,No,Yes,No,Yes,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,69.02087739844106,696.1958566628925,Yes
+914A-B,Female,0,Yes,Yes,8,No,No,No,No,No,Yes,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),94.07808486925403,746.3447626322562,Yes
+915A-B,Female,0,No,No,46,No,Yes,Fiber optic,Yes,No internet service,No internet service,No internet service,Yes,No internet service,One year,Yes,Bank transfer (automatic),84.23239690260075,3875.5363860747852,No
+916A-B,Female,0,Yes,Yes,5,No,Yes,Fiber optic,Yes,No,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),104.75607435467532,537.8306739472757,Yes
+917A-B,Male,0,Yes,Yes,58,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,64.90347679055242,3778.9089205264004,Yes
+918A-B,Male,0,Yes,Yes,42,No,No,DSL,No internet service,Yes,No,No internet service,Yes,Yes,Two year,Yes,Mailed check,48.19697302975258,2017.1600644562543,No
+919A-B,Male,0,Yes,No,60,No,No,No,Yes,Yes,No internet service,Yes,Yes,No,Two year,Yes,Credit card (automatic),53.73305543734081,3212.5098877874943,No
+920A-B,Female,0,Yes,No,49,Yes,No phone service,No,No internet service,No,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),53.108238882539766,2605.092770015783,No
+921A-B,Female,0,No,Yes,39,No,Yes,Fiber optic,No,No,No internet service,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),73.02479614742097,2847.163282499691,No
+922A-B,Female,0,No,No,31,No,No phone service,DSL,No internet service,Yes,Yes,No,No,No internet service,Two year,Yes,Electronic check,42.723197081996,1312.1170604367774,No
+923A-B,Female,1,No,No,5,No,No phone service,Fiber optic,No internet service,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),87.53464516510327,443.90917035240335,Yes
+924A-B,Male,0,No,Yes,69,Yes,No,No,No internet service,No,Yes,No,No internet service,Yes,Two year,Yes,Mailed check,115.21343550353357,7964.136959322371,No
+925A-B,Female,0,Yes,Yes,23,No,Yes,Fiber optic,No,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,104.70474084744018,2411.2784666064745,Yes
+926A-B,Male,0,Yes,No,17,Yes,No phone service,Fiber optic,No,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),97.10034872402183,1657.722531673226,No
+927A-B,Female,0,Yes,Yes,3,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,No internet service,No,Month-to-month,Yes,Electronic check,29.392449018676828,89.5099090820601,Yes
+928A-B,Male,0,Yes,No,1,No,Yes,DSL,No internet service,Yes,No internet service,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),32.7726323017754,22.99206358213253,Yes
+929A-B,Female,0,Yes,Yes,6,Yes,Yes,No,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,31.852826634128824,188.19979613614316,Yes
+930A-B,Male,1,No,Yes,69,Yes,Yes,Fiber optic,Yes,No,Yes,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),37.040380282379324,2556.5381959527494,No
+931A-B,Female,0,No,No,20,No,Yes,Fiber optic,No internet service,No internet service,No,No internet service,No internet service,Yes,One year,No,Electronic check,77.15024565944383,1528.90984382867,No
+932A-B,Male,0,Yes,No,51,No,No phone service,Fiber optic,No internet service,No,No internet service,No,Yes,No internet service,Two year,No,Credit card (automatic),87.78770991211682,4480.577852066608,No
+933A-B,Male,1,No,Yes,21,Yes,Yes,No,No,No internet service,Yes,No,No internet service,No,Month-to-month,No,Mailed check,98.98965411008813,2095.128752165625,No
+934A-B,Male,1,No,Yes,4,Yes,No,Fiber optic,No internet service,No,No,Yes,No,Yes,Month-to-month,No,Mailed check,25.61724243112678,98.74226706411997,Yes
+935A-B,Male,0,No,No,71,No,Yes,DSL,No internet service,No,No,Yes,Yes,No,Two year,Yes,Mailed check,21.8878827343591,1560.780564879023,No
+936A-B,Male,1,Yes,No,2,No,No phone service,Fiber optic,No internet service,Yes,No internet service,No,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),78.89722097439423,164.4991028581026,Yes
+937A-B,Male,0,No,Yes,8,Yes,No phone service,DSL,No internet service,No internet service,No,Yes,Yes,No internet service,Month-to-month,No,Electronic check,32.901618021056095,250.65206896400764,Yes
+938A-B,Female,1,Yes,Yes,4,Yes,Yes,Fiber optic,Yes,No,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,72.52243109974165,290.4511545244676,Yes
+939A-B,Female,1,No,No,33,Yes,Yes,No,No internet service,No internet service,No,No,No,Yes,Two year,Yes,Bank transfer (automatic),38.382782970329814,1256.2956329356653,No
+940A-B,Male,0,No,No,9,No,No,Fiber optic,Yes,No,No internet service,No internet service,Yes,Yes,Month-to-month,No,Mailed check,33.365113579980395,298.21511748446284,Yes
+941A-B,Female,1,Yes,No,2,Yes,No phone service,No,No internet service,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),112.05640162661174,234.78726912893623,Yes
+942A-B,Female,0,No,No,63,Yes,Yes,DSL,No,No,No,No internet service,Yes,Yes,Two year,Yes,Bank transfer (automatic),76.03418447159522,4783.871798310634,No
+943A-B,Female,0,No,No,19,No,No phone service,Fiber optic,No internet service,Yes,Yes,No,No internet service,No,One year,Yes,Mailed check,64.19692152802789,1229.1520924707738,No
+944A-B,Male,1,Yes,No,68,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No,No,Month-to-month,No,Credit card (automatic),56.05138577879875,3805.4449151359045,No
+945A-B,Female,0,No,No,26,Yes,Yes,DSL,No,Yes,Yes,No internet service,No internet service,No,Two year,No,Electronic check,104.67748836102925,2726.684636050596,Yes
+946A-B,Male,0,No,No,51,Yes,No phone service,No,No internet service,No internet service,No,No internet service,No,No internet service,Two year,No,Bank transfer (automatic),69.15649432957778,3507.629850378782,No
+947A-B,Male,0,Yes,Yes,22,No,Yes,DSL,No,No internet service,Yes,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),84.92082302035513,1857.0327341533628,No
+948A-B,Female,0,No,No,9,No,No,Fiber optic,Yes,Yes,No,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),87.73751412567239,790.1421741533278,Yes
+949A-B,Male,0,Yes,Yes,58,No,Yes,Fiber optic,No internet service,No internet service,No,No,No,No internet service,Two year,Yes,Bank transfer (automatic),42.542686236568045,2483.362975923771,No
+950A-B,Female,0,Yes,No,7,Yes,No phone service,DSL,No,No internet service,No,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),98.6718818532708,686.9596619697683,Yes
+951A-B,Male,0,Yes,Yes,5,Yes,No,No,No internet service,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,No,Electronic check,64.7887015275449,322.8150681542333,Yes
+952A-B,Male,0,Yes,Yes,21,No,No phone service,Fiber optic,Yes,Yes,No internet service,Yes,No internet service,No,Two year,No,Bank transfer (automatic),36.700925073791936,770.3556899696991,No
+953A-B,Male,0,Yes,No,26,No,Yes,DSL,No internet service,Yes,No internet service,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),49.75731686543543,1293.8950277719616,No
+954A-B,Male,0,Yes,Yes,1,Yes,No phone service,DSL,No internet service,Yes,No internet service,No,Yes,No,Month-to-month,No,Electronic check,58.98515728423783,51.53427647350906,Yes
+955A-B,Male,0,Yes,Yes,55,Yes,No phone service,No,Yes,Yes,No,Yes,No,Yes,One year,Yes,Electronic check,69.5841521921131,3830.0891753087667,No
+956A-B,Male,0,Yes,No,7,Yes,Yes,DSL,No,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,49.94291796026977,352.63774189940443,Yes
+957A-B,Male,0,Yes,Yes,44,Yes,No phone service,DSL,No,Yes,Yes,No internet service,No internet service,Yes,One year,Yes,Credit card (automatic),67.53273362141289,2969.5585273551333,No
+958A-B,Female,0,Yes,No,11,No,No,No,No internet service,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,53.953721988983006,582.0418651692132,Yes
+959A-B,Male,0,Yes,No,42,Yes,No,No,No internet service,Yes,No,Yes,No,No internet service,Two year,No,Bank transfer (automatic),105.80095344377044,4441.766268648084,No
+960A-B,Male,0,Yes,Yes,38,No,No phone service,No,Yes,No,No internet service,Yes,No,No,Month-to-month,No,Bank transfer (automatic),80.0698147739203,3047.741148488415,No
+961A-B,Male,0,Yes,Yes,37,Yes,No,DSL,No,No,No,No,No internet service,No,Two year,Yes,Bank transfer (automatic),60.884564047220564,2263.3152476915693,No
+962A-B,Male,0,No,No,45,No,No,No,No internet service,No internet service,No,Yes,No internet service,No,Two year,No,Credit card (automatic),39.69251653143204,1797.3145348926403,No
+963A-B,Male,0,No,Yes,50,Yes,Yes,No,Yes,Yes,Yes,No,No internet service,Yes,Two year,No,Bank transfer (automatic),116.80984499339408,5829.5350619644205,No
+964A-B,Male,1,Yes,No,16,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),66.00962680455905,1056.6164885215883,No
+965A-B,Male,1,No,No,70,No,No phone service,DSL,Yes,Yes,No internet service,Yes,No,Yes,Two year,No,Mailed check,63.21092017105655,4418.878605185904,No
+966A-B,Male,0,No,Yes,28,Yes,No phone service,No,Yes,Yes,No,Yes,Yes,No,One year,No,Electronic check,77.38219857612573,2150.473132804187,No
+967A-B,Male,0,Yes,No,1,No,Yes,Fiber optic,Yes,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,No,Electronic check,65.62742060258572,62.88054792767469,Yes
+968A-B,Male,0,Yes,Yes,46,Yes,Yes,No,No internet service,Yes,No,No,No,No,Two year,Yes,Credit card (automatic),33.747194178695146,1560.4100949402507,No
+969A-B,Female,0,No,No,3,Yes,No,No,Yes,No internet service,Yes,No internet service,No,Yes,Month-to-month,No,Credit card (automatic),96.92379363502808,291.8789209897122,Yes
+970A-B,Female,1,Yes,No,59,No,Yes,No,No,Yes,No internet service,No,No internet service,Yes,One year,No,Credit card (automatic),89.45277875110408,5276.74623646343,No
+971A-B,Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,Yes,No,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,62.751318069703714,141.87641186174795,Yes
+972A-B,Female,0,Yes,No,6,Yes,No,No,No,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Mailed check,47.56580326437612,288.77954485939614,Yes
+973A-B,Female,0,No,No,10,Yes,No,Fiber optic,No internet service,No,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,100.2086447035019,1008.0475761172382,Yes
+974A-B,Male,0,Yes,Yes,28,Yes,No phone service,No,No,No internet service,Yes,No internet service,No,No internet service,Two year,No,Credit card (automatic),108.2196317930136,3023.3121357328823,No
+975A-B,Female,0,Yes,Yes,1,Yes,Yes,Fiber optic,No internet service,No,Yes,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),93.8368446694947,104.07963388487639,Yes
+976A-B,Female,1,Yes,Yes,40,No,Yes,Fiber optic,No,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),100.86265733624909,4031.9861132056594,Yes
+977A-B,Female,0,Yes,No,56,No,Yes,DSL,No,No,No,Yes,No,No internet service,Two year,Yes,Electronic check,27.248292543272953,1524.416816647628,Yes
+978A-B,Female,0,Yes,Yes,61,No,No,DSL,No,No,Yes,Yes,Yes,No,Two year,Yes,Mailed check,87.51096747860304,5346.56820968291,No
+979A-B,Female,0,No,Yes,8,Yes,Yes,No,No,No,No internet service,No internet service,No,Yes,Month-to-month,No,Electronic check,57.858410225772005,466.518162954992,Yes
+980A-B,Female,1,Yes,No,11,Yes,No,Fiber optic,Yes,No,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,80.3681353454887,884.9339833205322,Yes
+981A-B,Female,0,Yes,No,66,Yes,No,DSL,No internet service,No internet service,No,No internet service,No internet service,Yes,Two year,No,Electronic check,52.58905235383112,3457.43726416259,No
+982A-B,Male,0,No,Yes,20,No,Yes,Fiber optic,No,No,No internet service,No internet service,No,Yes,One year,Yes,Electronic check,45.692746376383624,902.701206977825,No
+983A-B,Male,0,Yes,Yes,52,Yes,No,No,No,Yes,No internet service,Yes,Yes,Yes,One year,No,Credit card (automatic),109.60036695847654,5697.918943962949,No
+984A-B,Female,0,Yes,No,10,Yes,No,Fiber optic,No,No internet service,No,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),18.46635569461024,208.1019207327461,Yes
+985A-B,Male,0,No,No,52,Yes,No phone service,DSL,No internet service,No,No,No,No,Yes,Two year,Yes,Mailed check,108.0610000799346,5620.506428484808,No
+986A-B,Female,0,Yes,Yes,4,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),30.190362814180105,126.88161480979099,Yes
+987A-B,Female,0,Yes,Yes,54,Yes,No,DSL,Yes,No internet service,No,Yes,Yes,No,Two year,Yes,Mailed check,34.678574835075935,1862.5460669200847,No
+988A-B,Female,0,Yes,Yes,14,No,Yes,No,Yes,Yes,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),19.572256602325055,262.43949563910587,No
+989A-B,Female,0,Yes,No,19,Yes,No phone service,No,No internet service,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,114.57657445597876,2172.2382997828163,No
+990A-B,Male,0,Yes,No,10,Yes,No,Fiber optic,No internet service,Yes,Yes,No internet service,Yes,No,Month-to-month,Yes,Electronic check,55.31054502969847,574.9526737314268,Yes
+991A-B,Female,0,No,No,19,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),64.6149367863566,1237.3062873526605,Yes
+992A-B,Female,0,Yes,No,42,Yes,No,No,Yes,No,Yes,No,No internet service,No internet service,Month-to-month,No,Mailed check,22.45013583850958,941.7964356814778,No
+993A-B,Female,0,Yes,Yes,18,No,Yes,Fiber optic,No,No internet service,Yes,No internet service,No internet service,Yes,One year,Yes,Credit card (automatic),110.31064992849437,1973.9521998870384,No
+994A-B,Male,0,Yes,No,7,Yes,Yes,DSL,No internet service,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Mailed check,52.41738750672345,373.52082793696314,Yes
+995A-B,Female,0,No,Yes,9,Yes,Yes,Fiber optic,No internet service,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),18.87944169831358,162.60477682374298,Yes
+996A-B,Female,0,No,Yes,65,No,No,No,No internet service,No,No,Yes,Yes,No internet service,Two year,Yes,Mailed check,32.40398156580254,2114.987014183711,No
+997A-B,Male,0,No,No,3,No,No phone service,Fiber optic,No,No internet service,No,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),43.98243019949432,113.85509136112537,Yes
+998A-B,Female,0,Yes,No,41,No,No phone service,DSL,Yes,No,No,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),44.243619543010254,1803.8977270766138,No
+999A-B,Male,0,Yes,Yes,47,Yes,No phone service,No,Yes,No internet service,No,Yes,No,No internet service,Two year,No,Electronic check,89.58836977394722,4210.628089432397,Yes

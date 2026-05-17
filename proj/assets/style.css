@@ -1,0 +1,86 @@
+/* Main Background - Darker for better contrast */
+.stApp {
+    background: #0f172a;
+    /* Solid dark blue-gray fallback */
+    background: linear-gradient(180deg, #0f172a 0%, #1e293b 100%);
+    color: #f8fafc;
+}
+
+/* Force Text Color for all main blocks */
+.stMarkdown,
+.stText,
+p,
+div,
+span,
+label {
+    color: #e2e8f0 !important;
+}
+
+/* Headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Inter', sans-serif;
+    color: #38bdf8 !important;
+    /* Light Blue */
+    text-shadow: 0 0 10px rgba(56, 189, 248, 0.3);
+}
+
+/* Glassmorphism Containers - Darker background for readability */
+div[data-testid="stMetric"],
+div[data-testid="stExpander"],
+div[data-testid="stGroup"] {
+    background: rgba(30, 41, 59, 0.7) !important;
+    /* Darker semi-transparent */
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+}
+
+/* Metrics - Force white value */
+div[data-testid="stMetricValue"] {
+    color: #ffffff !important;
+}
+
+/* Buttons */
+.stButton>button {
+    background: linear-gradient(90deg, #0ea5e9 0%, #2563eb 100%);
+    border: none;
+    color: white !important;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+}
+
+.stButton>button:hover {
+    box-shadow: 0 0 15px rgba(14, 165, 233, 0.5);
+    color: white !important;
+}
+
+/* Inputs (Text, Number, Select) */
+.stTextInput>div>div>input,
+.stNumberInput>div>div>input {
+    color: #ffffff !important;
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Selectbox */
+div[data-baseweb="select"]>div {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    color: #ffffff !important;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #020617;
+    /* Very dark */
+    border-right: 1px solid rgba(255, 255, 255, 0.05);
+}
